@@ -371,6 +371,7 @@ export default function Home() {
     const key = `${targetType}:${targetId}`;
     const wasLiked = likedTargets.has(key);
     const nextLiked = !wasLiked;
+    setError("");
 
     setLikedTargets((prev) => {
       const next = new Set(prev);
@@ -397,14 +398,20 @@ export default function Home() {
       })
     );
 
-    const { error: likeError } = await supabase.rpc("toggle_like", {
-      p_target_type: targetType,
-      p_target_id: targetId,
-      p_visitor_id: visitorId
+    const response = await fetch("/api/likes/toggle", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        targetType,
+        targetId,
+        visitorId
+      })
     });
 
-    if (likeError) {
-      setError(likeError.message);
+    const result = (await response.json().catch(() => ({}))) as { liked?: boolean; message?: string };
+
+    if (!response.ok) {
+      setError(result.message || "좋아요 처리에 실패했습니다.");
       setLikedTargets((prev) => {
         const next = new Set(prev);
         if (wasLiked) next.add(key);
@@ -429,6 +436,7 @@ export default function Home() {
           return restaurant;
         })
       );
+      return;
     }
   }
 
