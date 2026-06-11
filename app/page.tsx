@@ -9,6 +9,8 @@ import {
   MapPin,
   Shuffle,
   Soup,
+  ToggleLeft,
+  ToggleRight,
   Utensils
 } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
@@ -130,6 +132,7 @@ export default function Home() {
   const [categories, setCategories] = useState<string[]>([]);
   const [category, setCategory] = useState("전체");
   const [priceBand, setPriceBand] = useState(priceBands[0].label);
+  const [excludeNoPrice, setExcludeNoPrice] = useState(true);
   const [query, setQuery] = useState("");
   const [expanded, setExpanded] = useState<Set<string>>(new Set());
   const [likedTargets, setLikedTargets] = useState<Set<string>>(new Set());
@@ -217,17 +220,19 @@ export default function Home() {
     const band = priceBands.find((item) => item.label === priceBand) || priceBands[0];
     const text = query.trim().toLowerCase();
 
-    return restaurants
+      return restaurants
       .map((restaurant) => {
         const menus = restaurant.menus.filter((menu) => {
           const menuPrice = menu.price_min ?? 0;
+          const hasPrice = menu.price_min != null || menu.price_max != null;
           const priceMatches = priceBand === "전체" || (menuPrice >= band.min && menuPrice <= band.max);
+          const visiblePriceMatches = !excludeNoPrice || hasPrice;
           const textMatches =
             !text ||
             restaurant.naver_place_name.toLowerCase().includes(text) ||
             restaurant.store_name.toLowerCase().includes(text) ||
             menu.name.toLowerCase().includes(text);
-          return priceMatches && textMatches;
+          return priceMatches && visiblePriceMatches && textMatches;
         });
         return { ...restaurant, menus };
       })
@@ -235,7 +240,7 @@ export default function Home() {
         const categoryMatches = category === "전체" || restaurant.category === category;
         return categoryMatches && restaurant.menus.length > 0;
       });
-  }, [category, priceBand, query, restaurants]);
+  }, [category, excludeNoPrice, priceBand, query, restaurants]);
 
   const orderedRestaurants = useMemo(() => {
     if (!randomPick) return filteredRestaurants;
@@ -310,6 +315,7 @@ export default function Home() {
   function handleResetFilters() {
     setCategory("전체");
     setPriceBand("전체");
+    setExcludeNoPrice(true);
     setQuery("");
     setRandomPick(null);
   }
@@ -366,6 +372,15 @@ export default function Home() {
               ))}
             </select>
           </div>
+          <button
+            className={`button secondary toggle-button ${excludeNoPrice ? "active" : ""}`}
+            onClick={() => setExcludeNoPrice((prev) => !prev)}
+            type="button"
+            aria-pressed={excludeNoPrice}
+          >
+            {excludeNoPrice ? <ToggleRight size={16} aria-hidden /> : <ToggleLeft size={16} aria-hidden />}
+            가격 미기재 제외
+          </button>
           <button className="button" onClick={handleRandomPick} type="button">
             <Shuffle size={17} aria-hidden />
             랜덤 선택
