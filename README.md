@@ -19,6 +19,8 @@ npm run prepare-data
 npm run dev
 ```
 
+Seed files are already prepared in `data/` and filtered to remove cafe/dessert-heavy categories.
+
 ## Deploy
 
 Add these Vercel environment variables:

@@ -166,9 +166,19 @@ export default function Home() {
         .select("target_id")
         .eq("target_type", "menu");
 
+      const { data: restaurantLikeCounts } = await supabase
+        .from("likes")
+        .select("target_id")
+        .eq("target_type", "restaurant");
+
       const menuLikeCountMap = new Map<string, number>();
       for (const row of menuLikeCounts || []) {
         menuLikeCountMap.set(row.target_id, (menuLikeCountMap.get(row.target_id) || 0) + 1);
+      }
+
+      const restaurantLikeCountMap = new Map<string, number>();
+      for (const row of restaurantLikeCounts || []) {
+        restaurantLikeCountMap.set(row.target_id, (restaurantLikeCountMap.get(row.target_id) || 0) + 1);
       }
 
       const menusByRestaurant = new Map<string, Menu[]>();
@@ -182,6 +192,7 @@ export default function Home() {
         restaurantRows
           .map((restaurant) => ({
             ...restaurant,
+            like_count: restaurantLikeCountMap.get(restaurant.id) || restaurant.like_count || 0,
             menus: menusByRestaurant.get(restaurant.id) || []
           }))
           .filter((restaurant) => restaurant.menus.length > 0)
@@ -227,7 +238,7 @@ export default function Home() {
     if (targetType === "restaurant") {
       setRestaurants((prev) =>
         prev.map((restaurant) =>
-          restaurant.id === targetId ? { ...restaurant, like_count: restaurant.like_count + 1 } : restaurant
+          restaurant.id === targetId ? { ...restaurant, like_count: (restaurant.like_count || 0) + 1 } : restaurant
         )
       );
     } else {
@@ -367,6 +378,7 @@ export default function Home() {
                   <strong>{randomPick.restaurant.naver_place_name}</strong>
                   <span>{randomPick.menu.name}</span>
                   <span className="price">{formatPrice(randomPick.menu)}</span>
+                  {randomPick.menu.description ? <p className="description">{randomPick.menu.description}</p> : null}
                 </div>
               ) : (
                 <p className="description">조건을 고르고 랜덤 선택을 눌러보세요.</p>
