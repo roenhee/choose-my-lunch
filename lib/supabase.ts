@@ -43,3 +43,17 @@ export type LikeRow = {
   target_id: string;
   visitor_id: string;
 };
+
+export type ContentRequest = {
+  id: string;
+  entity_type: "restaurant" | "menu";
+  action_type: "add" | "update" | "delete";
+  restaurant_id: string | null;
+  menu_id: string | null;
+  title: string;
+  details: string;
+  payload: Record<string, unknown>;
+  status: string;
+  visitor_id: string;
+  created_at: string;
+};
