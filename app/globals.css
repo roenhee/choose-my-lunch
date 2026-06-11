@@ -108,7 +108,7 @@ button {
 
 .controls {
   display: grid;
-  grid-template-columns: minmax(240px, 1fr) repeat(2, minmax(150px, 190px)) auto auto;
+  grid-template-columns: minmax(240px, 1fr) repeat(2, minmax(150px, 190px)) auto;
   gap: 12px;
   align-items: end;
   padding: 16px;
@@ -173,17 +173,6 @@ button {
 
 .merged-head .button {
   font-size: 14px;
-}
-
-.toggle-button {
-  justify-content: flex-start;
-  font-weight: 800;
-}
-
-.toggle-button.active {
-  border-color: #b9d9c7;
-  background: #eaf5ef;
-  color: var(--brand-strong);
 }
 
 .button.secondary:hover {
@@ -424,10 +413,6 @@ button {
   }
 
   .controls .button {
-    width: 100%;
-  }
-
-  .toggle-button {
     width: 100%;
   }
 }

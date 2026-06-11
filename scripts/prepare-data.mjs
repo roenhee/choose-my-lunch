@@ -86,7 +86,7 @@ function parsePrice(priceText) {
     .match(/\d{3,}/g)
     ?.map((n) => Number(n))
     .filter(Number.isFinite) || [];
-  if (!nums.length) return { price_min: "", price_max: "" };
+  if (!nums.length) return null;
   return {
     price_min: Math.min(...nums),
     price_max: Math.max(...nums)
@@ -135,6 +135,7 @@ for (const row of rows) {
   seenMenus.add(key);
 
   const price = parsePrice(row.price);
+  if (!price) continue;
   menus.push({
     restaurant_id: row.place_id,
     menu_index: row.menu_index,

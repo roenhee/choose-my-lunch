@@ -39,7 +39,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1002112328,17,양송이스프,3900,3900,3900,"풍미 가득한 양송이 듬뿍
 투고스프의 세번째 양송이스프",false,https://ldb-phinf.pstatic.net/20230312_77/1678630011906jzm2b_JPEG/10%BE%E7%BC%DB%C0%CC.jpg
 1011781285,0,식권,8000,8000,8000,,false,
-1014550775,0,Corkage Free,0,,,"와인,양주 병수 제한없이 콜키지 프리입니다. 매장에 판매하는 주류는 반입이 불가합니다.",false,https://ldb-phinf.pstatic.net/20240701_280/1719838685663O5mtv_JPEG/%B8%DE%B4%BA%BB%E7%C1%F8_%BF%CD%C0%CE.jpg
 1014550775,1,특양구이,45000,45000,45000,소 위의 한부분으로 부드럽고 씹을수록 쫄깃쫄깃한 맛이 특징인 대표메뉴,false,https://ldb-phinf.pstatic.net/20240701_145/1719839293972HteCm_JPEG/%B8%DE%B4%BA%BB%E7%C1%F8_%C6%AF%BE%E7.jpg
 1014550775,2,한우대창구이,44000,44000,44000,엄선한 양질의 국내산 한우대창으로 입안 가득 육즙을 느낄 수있는 대표메뉴,false,https://ldb-phinf.pstatic.net/20240701_2/1719839302030TXmMU_JPEG/%B8%DE%B4%BA%BB%E7%C1%F8_%B4%EB%C3%A2.jpg
 1014550775,3,한우곱창구이,45000,45000,45000,곱이 꽉차있는 국내산 곱창으로 씹을수록 고소함이 느껴지는 최고의 인기메뉴,false,https://ldb-phinf.pstatic.net/20240704_36/1720068054152Um1H8_JPEG/%B8%DE%B4%BA%BB%E7%C1%F8_%B0%F6%C3%A2.jpg
@@ -109,8 +108,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1073903416,12,땡초김밥,4800,4800,4800,,false,https://ldb-phinf.pstatic.net/20231115_20/1700012255215tPDkx_PNG/%B6%AF%C3%CA%B1%E8%B9%E4.png
 1073903416,13,김치김밥,4700,4700,4700,,false,https://ldb-phinf.pstatic.net/20231115_199/1700012244086SiH2J_PNG/%B1%E8%C4%A1%B1%E8%B9%E4.png
 1073903416,14,김돈스(김치볶음밥+돈가스),10500,10500,10500,,false,https://ldb-phinf.pstatic.net/20231115_179/1700012232971GEHhm_PNG/%B1%E8%B5%B7%BD%BA.png
-1073903416,15,[신메뉴출시] 매운비빔칼국수,,,,매운칼국수를 선택하시면 사이드메뉴(연탄불고기 or 등심돈까스)를 같이 드려요!,true,https://ldb-phinf.pstatic.net/20230531_7/1685496020874wdQQb_JPEG/%B8%C5%BF%EE%BA%F1%BA%F6%C4%AE%B1%B9%BC%F6_%B9%E8%B9%CE%BF%EB.jpg
-1073903416,16,[신메뉴출시] 매운냉칼국수,,,,매운칼국수를 선택하시면 사이드메뉴(연탄불고기 or 등심돈까스)를 같이 드려요!,true,https://ldb-phinf.pstatic.net/20230531_234/1685496009763xKK9R_JPEG/%B8%C5%BF%EE%B3%C3%C4%AE%B1%B9%BC%F6_%B9%E8%B9%CE%BF%EB.jpg
 1073903416,17,[계절메뉴] 냉모밀,8000,8000,8000,,false,https://ldb-phinf.pstatic.net/20230418_227/1681779898479jUbGU_PNG/%B3%C3%B8%F0%B9%D0.png
 1073903416,18,[계절메뉴] 비빔냉면,8000,8000,8000,,false,https://ldb-phinf.pstatic.net/20230418_158/1681779885827mVK13_PNG/%BA%F1%BA%F6%B3%C3%B8%E9.png
 1073903416,19,[계절메뉴] 물냉면,8000,8000,8000,,false,https://ldb-phinf.pstatic.net/20230418_122/16817798728722SLmc_PNG/%B9%B0%B3%C3%B8%E9.png
@@ -240,7 +237,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1086988618,1,로티세리 바비큐 치킨,7800,7800,7800,부드럽고 촉촉한 맛!,false,https://ldb-phinf.pstatic.net/20250401_175/1743470145231xs0Tn_JPEG/1000074879.jpg
 1086988618,2,스테이크&치즈,8500,8500,8500,풍미 가득한 맛!,false,https://ldb-phinf.pstatic.net/20250401_279/1743470256869FRkPu_JPEG/1000074882.jpg
 1096319161,0,1인,9000,9000,9000,,false,https://ldb-phinf.pstatic.net/20230908_114/1694159910239LvPIT_JPEG/KakaoTalk_20230908_165418323_04.jpg
-1098964052,0,겨울한정 대방어 상차림,,,,겨울 한정으로 제공되는 대방어 세트입니다.,true,
 1098964052,1,대방어 2인 상차림,65000,65000,65000,"대방어 중간 접시, 기본 상차림",true,
 1098964052,2,대방어 3~4인 상차림,109000,109000,109000,"대방어 큰 접시, 기본 상차림, 문어해물라면",true,
 1098964052,3,돌문어 + 대방어 2~3인 상차림,89000,89000,89000,"돌문어 중간 접시, 대방어 중간 접시, 기본 상차림",true,
@@ -253,8 +249,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1098964052,10,돌문어 + 수육 세트 小,43000,43000,43000,"돌문어 작은 접시, 돼지수육 작은 접시, 기본 상차림",true,
 1098964052,11,돌문어 + 수육 세트 中,63000,63000,63000,"돌문어 중간 접시, 돼지수육 중간 접시, 기본 상차림",true,
 1098964052,12,돌문어 + 수육 세트 大,85000,85000,85000,"돌문어 큰 접시, 돼지수육 큰 접시, 기본 상차림, 문어해물라면",true,
-1098964052,13,기본 상차림,1,,,"한 메뉴당 기본 상차림 한 셋트가 제공되며, 기본 상차림에는 두부전, 김치, 초밥, 김, 우동국물이 제공 됩니다.
-초밥을 제외한 상차림은 리필 가능합니다.",false,
 1098964052,14,맑은 백합탕,39000,39000,39000,백합이 듬뿍들어있는 시원한 맑은 백합탕.,false,
 1099442759,0,바지락수제비,11000,11000,11000,,false,https://ldb-phinf.pstatic.net/20220425_225/16508672349957h6JN_JPEG/1650866286728.jpg
 1099442759,1,바지락칼국수,11000,11000,11000,,false,https://ldb-phinf.pstatic.net/20220425_259/1650867186669rM4sd_JPEG/1650866292653.jpg
@@ -361,11 +355,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1128796253,9,생연어 볼 샐러드 (연어100g),18500,18500,18500,"연어 러버를 위한 신선하고 든든한 한 끼!
 비린내를 잡은 생연어를 큼직하게 담았습니다.",false,https://ldb-phinf.pstatic.net/20250414_115/1744587519425yFcKf_JPEG/%BF%AC%BE%EE%BA%BC.jpg
 1128796253,10,감태밥_볼 샐러드,14400,14400,14400,현미/곤약/찰현미/납짝보리/혈당잡는 파로에 감태주먹밥을 담아 건강한 든든함을 함께 했어요,true,https://ldb-phinf.pstatic.net/20250320_44/17424821643207iAaI_JPEG/%B0%A8%C5%C2%B9%E4_%BA%BC_%BB%F8%B7%AF%B5%E5.jpg
-1128796253,11,[단체 도시락] 그랑 타코볼,,,,"그랑타코볼(아보카도포함)+나초칲
-현미잡곡밥으로 비벼드세요~ (아보카도 제외 가능)",false,https://ldb-phinf.pstatic.net/20250729_90/17537767780706jBjK_JPEG/%B4%DC%C3%BC_%B5%B5%BD%C3%B6%F4_%B1%D7%B6%FB%C5%B8%C4%DA%BA%BC_1.jpg
-1128796253,12,[단체 도시락] 그랑 왕눈이 세트,,,,감태밥2알과 햄치즈 하프로 구성된 단체 도시락 인기 메뉴 (샌드위치 변경 가능),true,https://ldb-phinf.pstatic.net/20250729_222/1753776149653MAh08_JPEG/%B1%D7%B6%FB%BF%D5%B4%AB%C0%CC_%B4%DC%C3%BC_1.jpg
-1128796253,13,[단체] 김밥세트(최소 20개 이상),,,,"단체 김밥 세트에는 주문 가능 제한이 있습니다
-(6~8월 불가, 최소 주문 20개 이상)",false,https://ldb-phinf.pstatic.net/20250317_67/1742200812398R1xqh_JPEG/%B4%DC%C3%BC_%B5%B5%BD%C3%B6%F4_02.JPG
 1128796253,14,크랜베리 치킨 샌드위치,10500,10500,10500,새콤달콤 크랜베리와 부드러운 치킨의 완벽 조합! 국내산 냉장 닭가슴살을 직접 수비드합니다,false,https://ldb-phinf.pstatic.net/20250315_28/1742049994728zJltr_JPEG/02.%C5%A9%B7%A3%BA%A3%B8%AE_%BC%F6%BA%F1%B5%E5%C4%A1%C5%B2_%BB%F7%B5%E5%C0%A7%C4%A1.jpg
 1128796253,15,아보카도 BLT 샌드위치,11500,11500,11500,"잘 익은 아보카도의 부드러움과 고소한 베이컨, 매장에서 직접 수비드한 냉장 닭가슴살의 조합",false,https://ldb-phinf.pstatic.net/20250316_271/17420888186889SoM7_JPEG/04._%BE%C6%BA%B8%C4%AB%B5%B5BLT_%BB%F7%B5%E5%C0%A7%C4%A1.jpg
 1128796253,16,에그무스 샌드위치,7900,7900,7900,부드럽고 촉촉한 에그무스를 가득 채운 담백한 한 끼! 가볍지만 든든한 클래식 샌드위치,false,https://ldb-phinf.pstatic.net/20250316_195/1742051023883xK16F_JPEG/03._%BF%A1%B1%D7%B9%AB%BD%BA_%BB%F7%B5%E5%C0%A7%C4%A1.jpg
@@ -399,14 +388,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1133096736,9,런치 세트,48000,48000,48000,런치 세트는 평일 런치 / 주말 및 공휴일은 모든 시간대 주문 가능합니다.,false,https://ldb-phinf.pstatic.net/20241010_293/1728540323579kBVTO_JPEG/%C6%E4%C0%CC%B5%F5_%B8%DE%B4%BA%C6%C7_%C4%DA%BD%BA%C3%DF%B0%A1_%C7%D1%C0%DA%B8%ED_%C3%E2%B7%C2%BF%EB_4p.jpg
 1133096736,10,올 데이 코스,78000,78000,78000,,false,https://ldb-phinf.pstatic.net/20241010_264/1728540315338yvrVt_JPEG/%C6%E4%C0%CC%B5%F5_%B8%DE%B4%BA%C6%C7_%C4%DA%BD%BA%C3%DF%B0%A1_%C7%D1%C0%DA%B8%ED_%C3%E2%B7%C2%BF%EB_3p.jpg
 1133096736,11,시그니처 코스,168000,168000,168000,,false,https://ldb-phinf.pstatic.net/20241010_222/1728540307395Hhgkk_JPEG/%C6%E4%C0%CC%B5%F5_%B8%DE%B4%BA%C6%C7_%C4%DA%BD%BA%C3%DF%B0%A1_%C7%D1%C0%DA%B8%ED_%C3%E2%B7%C2%BF%EB_2p.jpg
-1133096736,12,바베큐 & 딤섬,,,,4/6 부터 딤섬 판매 재개합니다. 이용에 참고 부탁드립니다. 감사합니다.,false,https://ldb-phinf.pstatic.net/20260401_101/1775019464050ApwXE_JPEG/KakaoTalk_20260401_110056108_04.jpg
-1133096736,13,탕,,,,,false,https://ldb-phinf.pstatic.net/20260401_241/1775019501156MQGgX_JPEG/KakaoTalk_20260401_110056108_03.jpg
-1133096736,14,냉채 & 채소 & 두부,,,,,false,https://ldb-phinf.pstatic.net/20260401_128/1775019524821qmic7_JPEG/KakaoTalk_20260401_110056108_02.jpg
-1133096736,15,해산물,,,,,false,https://ldb-phinf.pstatic.net/20260401_64/1775019542963ycVod_JPEG/KakaoTalk_20260401_110056108_01.jpg
-1133096736,16,식사,,,,,false,https://ldb-phinf.pstatic.net/20260401_43/1775019567142Xz75q_JPEG/KakaoTalk_20260401_110056108_12.jpg
-1133096736,17,육류,,,,,false,https://ldb-phinf.pstatic.net/20260401_4/1775019552494CE4ly_JPEG/KakaoTalk_20260401_110056108.jpg
-1133096736,18,와인,,,,,false,https://ldb-phinf.pstatic.net/20241007_66/1728305627577hGI0Y_JPEG/%C6%E4%C0%CC%B5%F5_%B8%DE%B4%BA%C6%C7_%C4%DA%BD%BA%C3%DF%B0%A1_%C3%E2%B7%C2%BF%EB_11p.jpg
-1133096736,19,음료 & 주류,,,,,false,https://ldb-phinf.pstatic.net/20241007_70/1728305636245YklnQ_JPEG/%C6%E4%C0%CC%B5%F5_%B8%DE%B4%BA%C6%C7_%C4%DA%BD%BA%C3%DF%B0%A1_%C3%E2%B7%C2%BF%EB_12p.jpg
 1146075553,0,자장면,10000,10000,10000,,false,
 1146075553,1,매운고추자장면,11000,11000,11000,,false,
 1146075553,2,짬뽕,13000,13000,13000,,false,
@@ -653,7 +634,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1238642457,10,[별미] 임실치즈,10000,10000,10000,6pcs,false,https://ldb-phinf.pstatic.net/20260511_113/1778462368745sGDYo_JPEG/e4f2d9f0-4dc5-4835-829f-851a270d8074.jpg
 1238642457,11,[후식] 된장죽,15000,15000,15000,2인분,false,https://ldb-phinf.pstatic.net/20240827_298/1724751437558hzLky_JPEG/3.jpg
 1238642457,12,[후식] 된장찌개,5000,5000,5000,2인분,false,https://ldb-phinf.pstatic.net/20240827_297/17247514484140ykPU_PNG/4.png
-1244088313,0,구룡포 과메기,,,,겨울맛집 계절메뉴,false,https://ldb-phinf.pstatic.net/20240203_193/1706967544979bJIqT_JPEG/IMG_3542.jpeg
 1249368340,0,육계장,11000,11000,11000,,false,https://ldb-phinf.pstatic.net/20240506_170/1714965955644R3rsP_JPEG/menu01.jpg
 1249368340,1,육개장칼국수,12000,12000,12000,,false,https://ldb-phinf.pstatic.net/20240506_7/1714965932831gB6mm_JPEG/menu02.jpg
 1249368340,2,만두육개장,12000,12000,12000,,false,https://ldb-phinf.pstatic.net/20240506_38/171496597275347rQD_JPEG/all_img03_over.jpg
@@ -663,7 +643,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1255379622,0,난축맛돈 흑돼지곰탕(특),15000,15000,15000,,true,https://ldb-phinf.pstatic.net/20230627_281/1687872283147Svd7g_JPEG/1687872115155.jpg
 1255379622,1,난축맛돈 흑돼지곰탕(보통),11000,11000,11000,,true,https://ldb-phinf.pstatic.net/20230627_117/1687872293216yAvuq_JPEG/1687872115155.jpg
 1255379622,2,난축맛돈 유자수육,7000,7000,7000,,true,https://ldb-phinf.pstatic.net/20231113_121/1699882900849uhzxc_JPEG/%C0%AF%C0%DA%BC%F6%C0%B0.jpg
-1255379622,3,잔술,,,,"그날의 온도와 습도, 주인장의 기분에 따라 술이 바뀝니다.",false,https://ldb-phinf.pstatic.net/20231201_129/1701356440001sa9VX_JPEG/shutterstock_1156013158.jpg
 1257992992,0,등심돈카츠,9000,9000,9000,,false,
 1257992992,1,고르곤졸라치즈돈카츠,11000,11000,11000,,false,
 1257992992,2,매운철판치즈돈카츠,11000,11000,11000,,false,
@@ -732,7 +711,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1265025465,24,문어숙회와 화덕통삼겹,50000,50000,50000,,false,https://ldb-phinf.pstatic.net/20250302_105/1740866970279CJW4N_JPEG/GJF04437.jpg
 1270378270,0,해장국,12000,12000,12000,,true,https://ldb-phinf.pstatic.net/20210331_149/16171747097656xQdc_JPEG/-cTUpcxcQtgK77XI0b8KbyYI.jpg
 1270378270,1,내장탕,13000,13000,13000,,true,https://ldb-phinf.pstatic.net/20210331_184/1617174739560m871w_JPEG/ruskV4RDbAPzbnqWtk3psoSP.jpg
-1270378270,2,"돔베고기 (소, 중, 대)",,,,,false,https://ldb-phinf.pstatic.net/20210331_224/1617174754730MAtvR_JPEG/-hzn2dCCMcXKuCqJ4cuSMsCK.jpg
 1270378270,3,양무침,16000,16000,16000,,false,https://ldb-phinf.pstatic.net/20210331_161/1617174761154M6VfY_JPEG/AbMY46PLu-fjXTSsUAFBHf_m.jpg
 1273523273,0,비프타코,10500,10500,10500,,true,https://ldb-phinf.pstatic.net/20221227_247/1672147073461sVlYg_JPEG/985EEC6B-A6DA-419D-BF8E-62F33A9E9436.jpeg
 1281176265,0,국산콩국수,11000,11000,11000,국산 최상급 서리태와 백태를 매장에서 직접 갈아 만듭니다,true,https://ldb-phinf.pstatic.net/20240512_122/17155136762440Dnir_JPEG/1000000539.jpg
@@ -775,9 +753,7 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1289073820,16,[점심특선] 순두부찌개제육정식,12000,12000,12000,,false,https://ldb-phinf.pstatic.net/20230620_102/1687228537572dSLiD_PNG/%C1%A1%BD%C9%C6%AF%BC%B1_%BC%F8%B5%CE%BA%CE%C2%EE%B0%B3_%C1%A6%C0%B0%C1%A4%BD%C4.PNG
 1289073820,17,[점심특선] 김치찌개제육정식,12000,12000,12000,,false,https://ldb-phinf.pstatic.net/20230620_137/1687228561429jDgJo_PNG/%C1%A1%BD%C9%C6%AF%BC%B1_%B1%E8%C4%A1%C2%EE%B0%B3_%C1%A6%C0%B0%C1%A4%BD%C4.PNG
 1289073820,18,[점심특선] 된장찌개제육정식,12000,12000,12000,,false,https://ldb-phinf.pstatic.net/20230620_85/1687228582012vWA1i_PNG/%C1%A1%BD%C9%C6%AF%BC%B1_%B5%C8%C0%E5%C2%EE%B0%B3_%C1%A6%C0%B0%C1%A4%BD%C4.PNG
-1289308630,0,떡볶이,0,,,떡볶이는 셀프입니다.,false,https://ldb-phinf.pstatic.net/20251127_171/1764207265264UTV8R_JPEG/1000016276.jpg
 1289308630,1,오늘의한그릇,11000,11000,11000,메뉴가 매일 바뀝니다 :),true,https://ldb-phinf.pstatic.net/20251127_52/1764207310145p5mbU_JPEG/1000020065.jpg
-1289746436,0,🐟 고퀄리티 참치 무한리필 🐟,0,,,퀄리티가 기준에 못 미치면 판매하지 않습니다.,true,https://ldb-phinf.pstatic.net/20251223_133/1766479275427ABHrb_PNG/%B4%EB%C1%F8%B5%B5%BF%F8%C2%FC%C4%A1_%2825%29.png
 1289746436,1,혼마구로,80000,80000,80000,"참다랑어 100%로 구성된 무한리필 코스 / 참치회와 함께 전복버터구이, 간장게장이 제공",true,https://ldb-phinf.pstatic.net/20251223_124/1766478870715JBjD5_PNG/%B4%EB%C1%F8%B5%B5%BF%F8%C2%FC%C4%A1_%2810%29.png
 1289746436,2,일품,59000,59000,59000,참다랑어 65% 이상 사용한 무한리필 코스 / 눈다랑어와 간장게장이 제공되어 균형 잡힌구성,true,https://ldb-phinf.pstatic.net/20251223_17/1766478888301U53TK_PNG/%B4%EB%C1%F8%B5%B5%BF%F8%C2%FC%C4%A1_%286%29.png
 1289746436,3,혼골드,100000,100000,100000,최상급 참다랑어 특수부위를 중심으로 선별해 구성한 프리미엄 코스 ⭐,false,https://ldb-phinf.pstatic.net/20251223_275/1766478876333jRRcD_PNG/%B4%EB%C1%F8%B5%B5%BF%F8%C2%FC%C4%A1_%2811%29.png
@@ -962,7 +938,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1327666247,1,소갈비살 (생/양념) 1인분 150g,18900,18900,18900,"뼈를 발라낸 순살 소갈비살 생으로 먹어도, 마늘 듬뿍 올라간 양념으로 먹어도 맛있다.",true,https://ldb-phinf.pstatic.net/20240820_31/1724137127585t21f9_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-08-13_172555.png
 1327666247,2,한돈 돼지갈비 1인분 300g,19900,19900,19900,캬라멜 색소를 쓰지 않습니다. 가장 부드럽고 담백한 한돈 목살과 등갈비만 사용합니다.,false,https://ldb-phinf.pstatic.net/20251218_234/1766018631115YR6Dk_PNG/%B4%D9%BF%EE%B7%CE%B5%E5_%2814%29.png
 1327666247,3,한우차돌육회쌈,39000,39000,39000,"차돌박이의 고소함 + 육회의 부드러움 = 입 안 가득 ""극락"" 경험!",false,https://ldb-phinf.pstatic.net/20251203_52/1764745010500I4NbA_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%281%29.jpg
-1327666247,4,이게 기본상이라구!?,0,,,양문 푸짐한 기본상! 해장국+쟁반냉면이 무료!,false,https://ldb-phinf.pstatic.net/20240807_251/1723022725134Q3y5A_JPEG/%BC%D2%BD%C4_%C0%CC%B9%CC%C1%F6.jpeg
 1327666247,5,[시그니처] 백골라면,11900,11900,11900,사골의 가장 깊은 맛을 가져왔습니다. 사골 골수 고명을 잘 발라내어 뽀얀 국물에 섞어드세요,false,https://ldb-phinf.pstatic.net/20251203_39/1764745052147jIJPL_PNG/%B4%D9%BF%EE%B7%CE%B5%E5_%2810%29.png
 1327666247,6,"한우숯불차돌 (1인분, 150g)",26000,26000,26000,"한우차돌을 두툼하게 썰었습니다.
 꼬들 식감과 숯불 간장 조합은 흰쌀밥을 외치게 할 것입니다",false,https://ldb-phinf.pstatic.net/20251203_61/1764745236858eudkN_PNG/%B4%D9%BF%EE%B7%CE%B5%E5_%289%29.png
@@ -1064,7 +1039,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1374709669,8,코카콜라 355ml,2000,2000,2000,,false,https://ldb-phinf.pstatic.net/20240429_134/1714380611822jv82M_PNG/%C4%DD%B6%F3.png
 1374709669,9,코카콜라 제로 355ml,2000,2000,2000,,false,https://ldb-phinf.pstatic.net/20240429_40/17143806925194U9vT_JPEG/27817802526.20231122164325.jpg
 1374709669,10,칠성사이다 355ml,2000,2000,2000,,false,https://ldb-phinf.pstatic.net/20240429_258/1714380725197K2MPC_JPEG/5858915493.20200424103515.jpg
-1375254271,0,주차 2시간 무료주차 (등록필수),0,,,우회전 기업지원허브 진입요망,true,https://ldb-phinf.pstatic.net/20240817_96/17238844054774Mayb_JPEG/IMG_1272.jpeg
 1375254271,1,김치치즈카츠나베 정식,12900,12900,12900,,false,https://ldb-phinf.pstatic.net/20221129_251/1669693902889QMlnd_PNG/%BE%DF%B9%CC%C4%AB%C3%F7-%B1%E8%C4%A1%C4%A1%C1%EE%B3%AA%BA%A3.png
 1375254271,2,쭈꾸미카츠나베,14900,14900,14900,알싸한 매콤한 쭈꾸미 볶음과 카츠 그리고 치즈 완벽 그자체 완소메뉴 저녁한정메뉴,true,https://ldb-phinf.pstatic.net/20240311_110/1710160650220PQnyj_JPEG/photo_2024-03-11_21-37-26.jpg
 1375254271,3,카츠모둠세트,14900,14900,14900,야미카츠의 모든 카츠가 한곳에! 다채롭게 즐기는 모둠 카츠! 트러플오일과 함께 즐겨보세요!,true,https://ldb-phinf.pstatic.net/20250318_132/1742301528502Vd7dr_JPEG/IMG_1720.jpeg
@@ -1218,8 +1192,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1414093460,6,리얼하이볼,3900,3900,3900,"재패니즈 위스키 나모나키 메이슈 베이스의 토리키치 오리지널 하이볼 해피아워시 2,900원",false,https://ldb-phinf.pstatic.net/20230918_126/1694996014657dznvE_PNG/12t.png
 1414093460,7,참이슬,4900,4900,4900,저희 매장에는 참이슬과 일품진로가 있습니다.,false,https://ldb-phinf.pstatic.net/20230918_49/1694995945609Hnxl5_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2023-06-03_%BF%C0%C0%FC_6.54.41.png
 1414093460,8,짐빔하이볼,6900,6900,6900,,false,https://ldb-phinf.pstatic.net/20230918_167/1694996070507CV1DU_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2023-04-14_%BF%C0%C0%FC_9.31.22.png
-1418632150,0,마라샹궈 100g 3500원(20000원 부터),,,,,false,https://ldb-phinf.pstatic.net/20210126_100/16116584174328LNGl_JPEG/0hJz1Ke7dbbjKiGKAz5TeXVg.jpg
-1418632150,1,마라탕100g 1700원(7000원부터),,,,,false,
 1418632150,2,꿔바로우,15000,15000,15000,,false,
 1418632150,3,향라새우,23000,23000,23000,,false,
 1418632150,4,마라쇼룽샤,30000,30000,30000,,false,
@@ -1559,9 +1531,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 모둠수육전골小+오징어미나리전+불스지볶음(맵기 : 강/약)+모둠수육무침小",false,https://ldb-phinf.pstatic.net/20260109_183/1767922631311wCIUs_PNG/%BF%C1%B5%C8%C0%E5-%B7%CE%B0%ED-1.png
 1545864194,2,🎉옥된장 잔칫상 셋-트 4인🎉,79000,79000,79000,"98.0>79.0
 모둠수육전골中+오징어미나리전+불스지볶음(맵기 : 강/약)+모둠수육무침中",false,https://ldb-phinf.pstatic.net/20260109_235/1767922644823hX2hJ_PNG/%BF%C1%B5%C8%C0%E5-%B7%CE%B0%ED-1.png
-1545864194,3,<된장 전골>,,,,"울엄마표 집밥, 든든한 한끼
-푸짐한 재료와 진한 된장 육수
-엄마 손맛 느껴지는 된장전골",false,https://ldb-phinf.pstatic.net/20250730_63/1753836015932puJcJ_JPEG/%BF%C1%B5%C8%C0%E5_%B7%CE%B0%ED.jpg
 1545864194,4,고소한 한끼 [들깨미역 된장전골],10000,10000,10000,"고소한 들깨가루와 수제비가 듬뿍 들어간 건강 된장전골 / 3시 이후 2,000원 추가됩니다",false,https://ldb-phinf.pstatic.net/20250730_113/17538360003050Vq65_JPEG/%B5%C8%C0%E5%C0%FC%B0%F1_1_%B5%E9%B1%FA%B5%C8%C0%E5%C0%FC%B0%F1.jpg
 1545864194,5,쫄깃한 한끼 [우렁 된장전골],11000,11000,11000,"쫄깃한 우렁이 푸짐하게 들어간 깊은 맛의 된장전골 / 3시 이후 2,000원 추가됩니다",false,https://ldb-phinf.pstatic.net/20250730_163/1753835988003KAJBf_JPEG/%B5%C8%C0%E5%C0%FC%B0%F1_2_%BF%EC%B7%B7%B5%C8%C0%E5%C0%FC%B0%F1.jpg
 1545864194,6,탱글한 한끼 [오징어 된장전골],11000,11000,11000,"탱글탱글한 식감과 시원한 육수가 일품인 된장전골 / 3시 이후 2,000원 추가됩니다",false,https://ldb-phinf.pstatic.net/20250730_160/17538359761325WJoV_JPEG/%B5%C8%C0%E5%C0%FC%B0%F1_3_%BF%C0%C2%A1%BE%EE_%B5%C8%C0%E5_%C0%FC%B0%F1.jpg
@@ -1570,9 +1539,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1545864194,9,깔끔한 한끼 [바지락 大 된장전골],22000,22000,22000,"바지락의 시원한 육수로 깔끔하고 개운한 맛의 된장전골 / 3시 이후 2,000원 추가됩니다",false,https://ldb-phinf.pstatic.net/20250730_189/1753835934667pVgwG_JPEG/%B5%C8%C0%E5%C0%FC%B0%F1_6_%B9%D9%C1%F6%B6%F4%D3%DE%B5%C8%C0%E5%C0%FC%B0%F1.jpg
 1545864194,10,시원한 한끼 [꽃게 된장전골],12000,12000,12000,"신선한 꽃게의 감칠맛과 시원함을 느낄수 있는 된장전골 / 3시 이후 2,000원 추가됩니다",false,https://ldb-phinf.pstatic.net/20250730_284/1753835920673n1Ys8_JPEG/%B5%C8%C0%E5%C0%FC%B0%F1_7_%B2%C9%B0%D4%B5%C8%C0%E5%C0%FC%B0%F1.jpg
 1545864194,11,쫀득한 한끼 [스지 된장전골],12000,12000,12000,"쫀득한 스지와 진한 된장 육수, 풍부한 맛의 조화 / 3시 이후 2,000원 추가됩니다",false,https://ldb-phinf.pstatic.net/20250730_163/17538359044022nXeq_JPEG/%B5%C8%C0%E5%C0%FC%B0%F1_8_%BD%BA%C1%F6%B5%C8%C0%E5%C0%FC%B0%F1.jpg
-1545864194,12,<수육전골>,,,,"당일 정성을 다해 삶은 고기만 사용,
-냄새 없이 부드럽고 푸짐하고 든든한
-몸보신 1등 메뉴",false,https://ldb-phinf.pstatic.net/20250730_110/1753835886419yonbk_JPEG/%BF%C1%B5%C8%C0%E5_%B7%CE%B0%ED.jpg
 1545864194,13,💪점심 한정 보양식✨ 수육전골 정식,13000,13000,13000,"점심 한정 판매 / 당일 삶은 소고기와 김치찜, 엄마김 정식 구성으로 든든한 점심 한끼",true,https://ldb-phinf.pstatic.net/20250730_234/1753835831594I5vp2_JPEG/%BC%F6%C0%B0_0_%BC%F6%C0%B0%C0%FC%B0%F1_%C1%A4%BD%C4.jpg
 1545864194,14,💪보양식✨ 모둠 수육전골 小,25000,25000,25000,당일 삶은 부드러운 소고기 수육 3종과 신선한 미나리가 향긋하게 어우러진 따뜻한 수육전골,false,https://ldb-phinf.pstatic.net/20250730_167/1753835817886bdaiE_JPEG/%BC%F6%C0%B0_1_%BC%F6%C0%B0%C0%FC%B0%F1_%E1%B3.jpg
 1545864194,15,💪보양식✨ 모둠 수육전골 中,38000,38000,38000,당일 삶은 부드러운 소고기 수육 3종과 신선한 미나리가 향긋하게 어우러진 따뜻한 수육전골,false,https://ldb-phinf.pstatic.net/20250730_142/1753835454598q6t7E_JPEG/%BC%F6%C0%B0_2_%B8%F0%B5%EB%BC%F6%C0%B0%C0%FC%B0%F1.jpg
@@ -1585,10 +1551,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1545864194,22,💪보양식✨ 매운 소꼬리 전골 中,68000,68000,68000,한정 판매 / 당일 삶은 소꼬리의 깊은 맛에 칼칼한 매운맛을 더한 넉넉한 인심의 전골,false,https://ldb-phinf.pstatic.net/20250730_216/1753835353581FTA4K_PNG/%BC%F6%C0%B0_6_%B8%C5%BF%EE%BC%D2%B2%BF%B8%AE%C0%FC%B0%F1.png
 1545864194,23,💪보양식✨ 소꼬리 전골 大,95000,95000,95000,한정 판매 / 당일 정성으로 삶은 소꼬리와 진한 육수가 만나 깊은 맛을 선사하는 보양 전골,false,https://ldb-phinf.pstatic.net/20250730_174/1753835337935a6TSM_PNG/%BC%F6%C0%B0_5_%BC%D2%B2%BF%B8%AE%C0%FC%B0%F1.png
 1545864194,24,💪보양식✨ 매운 소꼬리 전골 大,98000,98000,98000,한정 판매 / 당일 삶은 소꼬리의 깊은 맛에 칼칼한 매운맛을 더한 넉넉한 인심의 전골,false,https://ldb-phinf.pstatic.net/20250730_235/1753835315976SBxqn_PNG/%BC%F6%C0%B0_6_%B8%C5%BF%EE%BC%D2%B2%BF%B8%AE%C0%FC%B0%F1.png
-1545864194,25,<별미 차림표>,,,,"전골과 함께 먹으면 금상첨화!!
-🌿자체 반죽 미나리전
-❤️매콤새콤 무침
-🔥불맛 볶음요리",false,https://ldb-phinf.pstatic.net/20250730_44/1753835254569xoBb1_JPEG/%BF%C1%B5%C8%C0%E5_%B7%CE%B0%ED.jpg
 1545864194,26,🔥불맛 가득! 오징어 제육 두루치기,29000,29000,29000,쫄깃한 오징어와 호불호 없는 제육에 화끈한 불맛 소스 / 점심에는 밥이 제공됩니다.,false,https://ldb-phinf.pstatic.net/20251023_87/1761204144967HV8dV_PNG/%BF%C0%C2%A1%BE%EE%C1%A6%C0%B0%B5%CE%B7%E7%C4%A1%B1%E2_%BF%CF%C1%B6%B8%AE_1000.png
 1545864194,27,오징어 미나리전,20000,20000,20000,쫄깃한 오징어와 향긋하고 아삭한 미나리를 함께 부쳐 고소하고 담백한 맛이 일품인 미나리전,true,https://ldb-phinf.pstatic.net/20250730_4/1753834783665D4iaU_PNG/%C0%CF%C7%B0%C3%DF%B0%A1_1_%BF%C0%C2%A1%BE%EE%B9%CC%B3%AA%B8%AE%C0%FC.png
 1545864194,28,보리새우 미나리전,17000,17000,17000,고소하고 바삭한 보리새우가 가득! 처음부터 끝까지 바삭함을 즐길 수 있는 보리새우 미나리전,false,https://ldb-phinf.pstatic.net/20250730_147/1753834771435lRXGG_JPEG/%C0%CF%C7%B0%C3%DF%B0%A1_2_%BA%B8%B8%AE%BB%F5%BF%EC_%B9%CC%B3%AA%B8%AE%C0%FC.jpg
@@ -1680,7 +1642,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1559613992,13,부라타샐러드,24000,24000,24000,"부라타치즈, (방울,완숙)토마토,썬드라이토마토, 로메인올리브오일, 바질, 바질페스토,",false,https://ldb-phinf.pstatic.net/20260325_230/1774430047351QCRwt_JPEG/IMG_9829.jpeg
 1559613992,14,스트라치아텔라 루꼴라 샐러드,21000,21000,21000,,false,https://ldb-phinf.pstatic.net/20250618_105/1750172604178R9TSy_JPEG/IMG_2065.jpeg
 1559613992,15,캐비지 버터,20000,20000,20000,,false,https://ldb-phinf.pstatic.net/20260412_217/1775969811820jyIGd_JPEG/IMG_9965.jpeg
-1559613992,16,위스키 하이볼 와인 맥주,,,,,false,https://ldb-phinf.pstatic.net/20250618_142/1750173825283LqXQx_JPEG/IMG_2056.jpeg
 1576050573,0,짜장면,9500,9500,9500,,false,https://ldb-phinf.pstatic.net/20250109_176/17364077752315cg02_JPEG/%C2%A5%C0%E5%B8%E9.jpg
 1576050573,1,해물짬뽕,12000,12000,12000,,false,https://ldb-phinf.pstatic.net/20250109_271/1736407785109HVS44_JPEG/%C7%D8%B9%B0%C2%AB%BB%CD.jpg
 1576050573,2,삼선짜장면,12000,12000,12000,,false,https://ldb-phinf.pstatic.net/20250109_212/17364078315196SxdE_JPEG/%BB%EF%BC%B1%C2%A5%C0%E5.jpg
@@ -1917,8 +1878,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1609949246,19,디너-(무한)알목심,34900,34900,34900,"미국산 알목심과 신선한 채소가 무제한. 스키야키와 샤브샤브 중 택1, 후식포함",false,https://ldb-phinf.pstatic.net/20251231_60/1767164293180ayWRU_JPEG/KakaoTalk_20251231_144139444.jpg
 1609949246,20,디너-(무한)살치살,39900,39900,39900,"미국산 살치살과 신선한 채소가 무제한. 스키야키와 샤브샤브 중 택1, 후식포함",false,https://ldb-phinf.pstatic.net/20251231_130/1767164301347ka1Ou_JPEG/KakaoTalk_20251231_144139444.jpg
 1609949246,21,디너-(무한)한우설도++,41900,41900,41900,"한우설도++와 신선한 채소가 무제한. 스키야키와 샤브샤브 중 택1, 후식포함",false,https://ldb-phinf.pstatic.net/20250929_38/1759114601966F0ops_JPEG/KakaoTalk_20250925_163539637.jpg
-1611851503,0,전문 서버가 구워드리는 프리미엄 한우,0,,,전문 서버가 직접 구워드리니 가장 맛있는 순간을 편하게 즐겨보세요.,true,https://ldb-phinf.pstatic.net/20260510_270/1778406742860jBPsm_JPEG/1778406443326.jpg
-1611851503,1,리뷰 작성 시 프리미엄젤라또 제공,0,,,,true,https://ldb-phinf.pstatic.net/20260527_298/1779869798234U0tEM_JPEG/naver_place_notice_1080-4.jpg
 1611851503,2,숙성 특안심,59000,59000,59000,"3주 이상 숙성한 한우 안심으로
 부드러운 식감과 깊은 풍미를 느낄 수 있는 부위입니다.",true,https://ldb-phinf.pstatic.net/20240907_39/1725686917389hMRrX_JPEG/IMG_6677.jpeg
 1611851503,3,숙성 채끝등심,58000,58000,58000,"3주 이상 숙성한 한우 채끝으로
@@ -1953,7 +1912,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1611851503,27,곱개장 / 곱창국수 [Lunch],16000,16000,16000,얼큰한 육수에 곱창을 더한 국밥으로 진한 풍미와 깊은 국물 맛을 느낄 수 있습니다,false,https://ldb-phinf.pstatic.net/20250617_157/1750122540042vbBUe_JPEG/%B0%F6%B0%B3%C0%E5%2C%B0%F6%C3%A2%B1%B9%BC%F6.jpg
 1611851503,28,차돌 김치 볶음밥 [Lunch],10000,10000,10000,차돌박이와 김치를 함께 볶아낸 메뉴로 고소하고 깊은 풍미를 즐길 수 있는 볶음밥입니다,false,https://ldb-phinf.pstatic.net/20240907_19/1725687083377rhlmA_JPEG/IMG_6694.jpeg
 1611851503,29,물냉면 / 비빔냉면 [LUNCH],12000,12000,12000,,false,https://ldb-phinf.pstatic.net/20260515_79/1778818942267r28EN_JPEG/%B3%C3%B8%E9.jpg
-1620963045,0,점심시간에는 예약이 불가합니다,1,,,,true,
 1620963045,1,부추전,12000,12000,12000,,false,
 1620963045,2,김치전,12000,12000,12000,,false,
 1620963045,3,낙지오봉집스페셜,59000,59000,59000,직화낙지볶음+보쌈+쟁반막국수,false,https://ldb-phinf.pstatic.net/20230616_17/16868885521737wo4l_JPEG/%BF%C0%BA%C0%BD%BA%C6%E4%BC%C8-01.jpg
@@ -2033,7 +1991,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1628161572,1,김치볶음밥,7500,7500,7500,,false,
 1628161572,2,참치덮밥,8000,8000,8000,,false,
 1628161572,3,오징어덮밥,8000,8000,8000,,false,
-1662712608,0,황태국,,,,뽀얗게 끓여낸 황태국입니다,true,https://ldb-phinf.pstatic.net/20240929_48/17275893698932HbU2_JPEG/1727589345382.jpg
 1664765639,0,신전떡볶이,4000,4000,4000,,true,https://ldb-phinf.pstatic.net/20210903_222/1630653123273itjFE_JPEG/8EDJeN0_7haOC5NFD9SCBw3G.jpg
 1667443269,0,반쎄오,18000,18000,18000,,false,https://ldb-phinf.pstatic.net/20221116_279/1668558958336UpgY2_JPEG/16_%B9%DD%BD%EA%BF%C0.jpg
 1667443269,1,월남쌈(8p),12800,12800,12800,,false,https://ldb-phinf.pstatic.net/20221116_160/1668558938009Q8rUJ_JPEG/15_%BF%F9%B3%B2%BD%D3.jpg
@@ -2063,8 +2020,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1670403343,8,스테이크 크림카레동,12000,12000,12000,직접 손질한 부채살과 함께 매콤하게 만들어낸 카레와 크림을 섞어 맛을 낸 카레,false,https://ldb-phinf.pstatic.net/20241106_109/1730876689726u5nq6_JPEG/IMG_9289.jpeg
 1670403343,9,우삼겹 크림카레동,11000,11000,11000,소스와 함께 직화로 구운 우삼겹과 매콤하게 만들어낸 카레와 크림을 섞어 맛을 낸 카레,false,https://ldb-phinf.pstatic.net/20241106_261/1730876581455btArp_JPEG/IMG_9254.jpeg
 1670403343,10,닭다리살 크림카레동,12000,12000,12000,직접 손질한 닭다리살과 약간 매콤하게 만들어낸 카레와 크림을 섞어 부드러운 맛을 낸 카레,false,https://ldb-phinf.pstatic.net/20241029_238/17301763423299lCYa_JPEG/IMG_9168.jpeg
-1670403343,11,수제새우튀김,,,,직접 만든 수제 새우튀김,false,https://ldb-phinf.pstatic.net/20241029_224/1730177080731kpJIK_JPEG/IMG_4711.jpeg
-1670403343,12,수제치킨가라아게,,,,직접 손질한 닭다리살을 바삭하게 튀겨낸 수제 가라아게,false,https://ldb-phinf.pstatic.net/20241029_208/1730176505943JW2v2_JPEG/IMG_4796.jpeg
 1670403343,13,대왕게살크림고로케 2pcs,4000,4000,4000,,false,https://ldb-phinf.pstatic.net/20260424_117/1777007098354uRTqM_JPEG/IMG_3591.jpeg
 1670403343,14,아사히 캔맥주,5000,5000,5000,,false,https://ldb-phinf.pstatic.net/20260414_59/1776157426440Xbvb9_JPEG/IMG_3427.jpeg
 1670403343,15,아사히 병맥주,6000,6000,6000,,false,https://ldb-phinf.pstatic.net/20260414_289/1776157443578iqju4_JPEG/IMG_3428.jpeg
@@ -2227,7 +2182,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1718614596,15,유자 소고기 비빔밥,14000,14000,14000,"한우 볶은 고기, 신선한야채와 달콤한 유자의 풍미를 느낄수 있는 고추장 소스가 일품",false,https://ldb-phinf.pstatic.net/20250310_33/1741606210733MUNAh_JPEG/25.0310_%C2%F7%B0%ED145-18.jpg
 1718614596,16,한우 국밥,11000,11000,11000,한우로 우려내 시원하고 갚은맛이 일품,false,
 1718614596,17,구워먹는 치즈,12000,12000,12000,,false,https://ldb-phinf.pstatic.net/20250310_128/1741609521041cfgMc_JPEG/25.0310_%C2%F7%B0%ED145-33.jpg
-1718614596,18,- Corkage Free -,0,,,"- 첫 와인잔은 무료로 제공 후 교체 시 잔당 10,000원 비용",false,https://ldb-phinf.pstatic.net/20240220_118/17084121006703QdvN_JPEG/20240220_155440.jpg
 1740068270,0,활어3종,39000,39000,39000,대광어+계절활어(대방어.이시가리.참돔등..)+고급어종(감상돔.줄돔.벵에돔.참가자미등..),true,https://ldb-phinf.pstatic.net/20221227_289/1672113697771oklnb_JPEG/SNOW_20211210_170843_368.jpg
 1740068270,1,이든스시,11500,11500,11500,12pcs 활어.참치.새우등..,false,https://ldb-phinf.pstatic.net/20201124_171/1606202825925b5SiU_JPEG/4UPaHftshgMh4sl3F197lI3P.jpg
 1740068270,2,스시정식,13500,13500,13500,튀김.미니우동추가..,false,
@@ -2298,7 +2252,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1772691699,7,치즈라면+돈가스,10000,10000,10000,,false,
 1772691699,8,철판치즈돈가스나베,10000,10000,10000,,false,
 1772691699,9,철판김치돈가스나베,9000,9000,9000,,false,https://ldb-phinf.pstatic.net/20241007_69/17282686292674gP2u_JPEG/%C6%C7%C3%B6%B1%E8%C4%A1%B5%B7%B0%A1%BD%BA%B3%AA%BA%A3_9000%BF%F8.jpg
-1772691699,10,---냉면---,,,,,false,
 1772691699,11,물냉면,10000,10000,10000,"추가면곱빼기 +2,000원",false,
 1772691699,12,비빔냉면,10000,10000,10000,"추가면곱빼기 +2,000원",false,
 1772691699,13,돈물냉,11000,11000,11000,"추가면곱빼기 +2,000원",false,https://ldb-phinf.pstatic.net/20241007_85/1728268576234RNSz3_JPEG/%B3%C3%B8%E9_%2B_%B5%B7%B0%A1%BD%BA_11000%BF%F8.jpg
@@ -2307,7 +2260,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1772691699,16,돈비따로,12000,12000,12000,"추가면곱빼기 +2,000원",false,
 1772691699,17,닭개장(동절기),10000,10000,10000,,false,
 1772691699,18,생고기 김치찌개,9000,9000,9000,,false,
-1772691699,19,--저녁메뉴--,,,,,false,
 1772691699,20,생삼겹살(한돈생고기 180g),16000,16000,16000,,false,
 1772691699,21,보쌈 한상차림(2인이상),25000,25000,25000,"굴추가 +10,000/고기추가 +20,000/홍어무침추가 +20,000",false,https://ldb-phinf.pstatic.net/20241007_207/1728268596637sHFwf_JPEG/%BA%B8%BD%D3_%C7%D1%BB%F3_%B8%DE%C0%CE_%281%C0%CE25000%BF%F8%29.jpg
 1772691699,22,한우육회(최상등급 200g),35000,35000,35000,최고품질 1++을 사용!!,false,
@@ -2681,7 +2633,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1842045578,8,감자고로케 1pcs,1500,1500,1500,,false,https://ldb-phinf.pstatic.net/20250730_73/1753851459000IWyk2_JPEG/%B0%A8%C0%DA_%B0%ED%B7%CE%C4%C9.jpg
 1842045578,9,새우튀김 3pcs,5000,5000,5000,"4pcs 6,500원 / 5pcs 7,500원",false,https://ldb-phinf.pstatic.net/20250730_102/1753851500245qwDeP_JPEG/%BB%F5%BF%EC%C6%A2%B1%E82.jpg
 1842045578,10,게다리튀김 3pcs,6000,6000,6000,"4pcs 7,500 / 5pcs 8,500",false,https://ldb-phinf.pstatic.net/20250730_180/17538514480541OoFo_JPEG/%B0%D4%B4%D9%B8%AE%C6%A2%B1%E82.jpg
-1842045578,11,공깃밥 무료,0,,,,false,https://ldb-phinf.pstatic.net/20250730_101/1753849969850lgo2U_JPEG/%B9%E8%B4%DE%BE%DB-14.jpg
 1842045578,12,음료,2000,2000,2000,,false,
 1842045578,13,생맥주 300cc,2000,2000,2000,맥스,false,
 1842045578,14,소주,5000,5000,5000,처음처럼 / 진로이즈백,false,
@@ -2901,7 +2852,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1874276871,49,체다치즈카츠,13500,13500,13500,"체다치즈카츠, 소우동, 샐러드, 연유치즈떡, 밥",false,https://ldb-phinf.pstatic.net/20251127_261/1764232435611qaCue_JPEG/2_%C3%BC%B4%D9%C4%A1%C1%EE%C4%AB%C3%F7.jpg
 1874276871,50,타코야끼,5900,5900,5900,타코야끼,false,https://ldb-phinf.pstatic.net/20251127_12/1764232730093pchRk_JPEG/%BB%E7%C0%CC%B5%E5_%C5%B8%C4%DA%BE%DF%B3%A2.jpg
 1874276871,50,가츠동,11900,11900,11900,"바삭, 두툼한 튀김과 특제 타레소스를 곁들인 튀김덮밥",false,https://ldb-phinf.pstatic.net/20251127_162/1764232259875RWGza_JPEG/4_%B0%A1%C3%F7%B5%BF.jpg
-1874276871,51,대파 추가,0,,,키소카레 주문 시 추가 가능합니다.,false,https://ldb-phinf.pstatic.net/20251128_90/1764291539808J0TVH_PNG/%C5%E4%C7%CE_%B4%EB%C6%C4.png
 1874276871,51,에비가츠동,12900,12900,12900,"새우튀김3개, 온센타마고(온천달걀), 소우동, 샐러드, 연유치즈떡",false,https://ldb-phinf.pstatic.net/20251127_191/1764232593171jmOgE_JPEG/4_%BF%A1%BA%F1%B0%A1%C3%F7%B5%BF.jpg
 1874276871,52,마늘양파후레이크 추가,700,700,700,키소카레 주문 시 추가 가능합니다.,false,https://ldb-phinf.pstatic.net/20251128_178/1764291647877L64L6_PNG/%C5%E4%C7%CE_%B8%B6%B4%C3%BE%E7%C6%C4%C8%C4%B7%B9%C0%CC%C5%A9.png
 1874276871,52,스페셜가츠동,13900,13900,13900,"돈카츠, 새우튀김1개, 가라아게, 온센타마고(온천달걀), 소우동, 샐러드, 연유치즈떡",false,https://ldb-phinf.pstatic.net/20251127_55/1764232600890FF1Iy_JPEG/4_%BD%BA%C6%E4%BC%C8%B0%A1%C3%F7%B5%BF.jpg
@@ -2933,7 +2883,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1874276871,75,미니카레라이스 추가,3900,3900,3900,미니카레라이스 추가,false,https://ldb-phinf.pstatic.net/20251127_13/17642327433076y7jS_JPEG/%BB%E7%C0%CC%B5%E5_%B9%CC%B4%CF%C4%AB%B7%B9%28%C5%B0%BC%D2%29.jpg
 1874276871,76,온센타마고(온천달걀),1500,1500,1500,온센타마고(온천달걀),false,https://ldb-phinf.pstatic.net/20251127_267/1764232761715EtMab_JPEG/%BB%E7%C0%CC%B5%E5_%BF%C2%BC%BE%C5%B8%B8%B6%B0%ED.jpg
 1874276871,77,타코야끼,5900,5900,5900,타코야끼,false,https://ldb-phinf.pstatic.net/20251127_12/1764232730093pchRk_JPEG/%BB%E7%C0%CC%B5%E5_%C5%B8%C4%DA%BE%DF%B3%A2.jpg
-1874276871,78,대파 추가,0,,,키소카레 주문 시 추가 가능합니다.,false,https://ldb-phinf.pstatic.net/20251128_90/1764291539808J0TVH_PNG/%C5%E4%C7%CE_%B4%EB%C6%C4.png
 1874276871,79,마늘양파후레이크 추가,700,700,700,키소카레 주문 시 추가 가능합니다.,false,https://ldb-phinf.pstatic.net/20251128_178/1764291647877L64L6_PNG/%C5%E4%C7%CE_%B8%B6%B4%C3%BE%E7%C6%C4%C8%C4%B7%B9%C0%CC%C5%A9.png
 1874276871,80,눈꽃치즈 추가,1000,1000,1000,키소카레 주문 시 추가 가능합니다.,false,https://ldb-phinf.pstatic.net/20251128_283/1764291685070AsjPp_PNG/%C5%E4%C7%CE_%B4%AB%B2%C9%C4%A1%C1%EE.png
 1874276871,81,우엉튀김 추가,2500,2500,2500,키소카레 주문 시 추가 가능합니다.,false,https://ldb-phinf.pstatic.net/20251128_172/1764291780018v6IVK_PNG/%C5%E4%C7%CE_%BF%EC%BE%FB%C6%A2%B1%E8.png
@@ -3064,8 +3013,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 1910738742,14,일품진로 토닉세트,35000,35000,35000,"입문자도 즐기기 좋은 부드러운 소주 칵테일, 일품진로 토닉세트!",false,https://ldb-phinf.pstatic.net/20250405_60/17437906843732XLVL_JPEG/7_%C0%CF%C7%B0%C1%F8%B7%CE%BC%BC%C6%AE.jpg
 1910738742,15,화요 토닉세트,35000,35000,35000,분위기 있는 한잔을 원한다면 추천하는 화요 토닉세트!,false,https://ldb-phinf.pstatic.net/20250405_42/17437907032320gSPV_JPEG/7_%C8%AD%BF%E425%BC%BC%C6%AE.jpg
 1910738742,16,콜키지,20000,20000,20000,한 병당 2만원입니다!,false,https://ldb-phinf.pstatic.net/20250405_125/1743790725264benrd_JPEG/7_%C4%DD%C5%B0%C1%F6.jpg
-1910738742,17,( 이벤트 ) 생맥주 무료 소주 1샷,0,,,,false,https://ldb-phinf.pstatic.net/20250405_286/1743790779246A49gm_JPEG/6_%BB%FD%B8%C6%C1%D6_%BC%D2%C1%D61%BC%A6_%C3%DF%B0%A1.jpg
-1910738742,18,청결연탄사용으로 불맛이 일품,,,,,false,https://ldb-phinf.pstatic.net/20250118_88/1737170310998eGYQQ_JPEG/0._%BC%BC%C6%AE%B8%DE%B4%BA_%BB%E7%C1%F8.jpg
 1910738742,19,연탄 무뼈닭발,20900,20900,20900,"불향 가득 매콤한 맛에 손이 가는 술안주, 연탄 무뼈닭발!",false,https://ldb-phinf.pstatic.net/20250405_90/1743790805979JTjBQ_JPEG/1_%BF%AC%C5%BA_%B9%AB%BB%C0%B4%DF%B9%DF.jpg
 1910738742,20,연탄 알곱창,20900,20900,20900,"불맛 좋아하는 사람들 사이 핫한 인기 안주, 연탄 알곱창!",false,https://ldb-phinf.pstatic.net/20250405_177/1743790821262QsDD5_JPEG/1_%BF%AC%C5%BA_%BE%CB%B0%F6%C3%A2.jpg
 1910738742,21,연탄 고추장불고기,20900,20900,20900,"밥도둑이자 술 안주 끝판왕, 매콤한 연탄 고추장 불고기!",false,https://ldb-phinf.pstatic.net/20250405_37/1743790835936d6y1h_JPEG/1_%BF%AC%C5%BA_%B0%ED%C3%DF%C0%E5%BA%D2%B0%ED%B1%E2.jpg
@@ -3586,7 +3533,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 2080469195,1,멘타이코 핫코오버터 우동,14000,14000,14000,명란 발효 버터 우동,true,https://ldb-phinf.pstatic.net/20260301_263/1772368034044Xw6RB_JPEG/%B0%A1%B8%B6%B9%F6%C5%CD.jpg
 2080469195,2,붓카케 우동,9000,9000,9000,부어먹는 일본식 쯔유 냉우동,true,https://ldb-phinf.pstatic.net/20260301_10/1772367692456OLy71_JPEG/%BA%D7%C4%AB%C4%C9_%BF%EC%B5%BF.jpg
 2080469195,3,카라이 네기 우동,14000,14000,14000,매운 소고기 명란 온우동,false,https://ldb-phinf.pstatic.net/20260301_232/1772368115817rN5KB_JPEG/%C4%AB%B6%F3%C0%CC_%B3%D7%B1%E2_%BF%EC%B5%BF.jpg
-2080469195,4,"면 추가 ( 냉, 온 )",0,,,면 추가는 무료입니다.,true,
 2080469195,5,멘타이코 니쿠 우동,14000,14000,14000,명란 소고기 온우동,false,https://ldb-phinf.pstatic.net/20260301_95/17723680124576FmS8_JPEG/%B8%E0%C5%B8%C0%CC%C4%DA_%B4%CF%C4%ED_%BF%EC%B5%BF.jpg
 2080469195,6,니쿠 우동,13000,13000,13000,소고기 온우동,false,https://ldb-phinf.pstatic.net/20260301_43/1772367988965XBnWJ_JPEG/%B4%CF%C4%ED_%BF%EC%B5%BF.jpg
 2080469195,7,니쿠 붓카케 우동,13000,13000,13000,"소고기 스키야끼 우동 ( 냉, 온 )",false,https://ldb-phinf.pstatic.net/20260301_72/17723679586140MC5c_JPEG/%B4%CF%C4%ED_%BA%D7%C4%AB%C4%C9.jpg
@@ -3619,7 +3565,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 2080469195,34,토리텐 3P,4000,4000,4000,바삭한 닭 튀김 3P,false,https://ldb-phinf.pstatic.net/20260301_220/17723667649592TKvj_JPEG/%C5%E4%B8%AE_3%B0%B3.jpg
 2080469195,35,야사이 덴푸라,4000,4000,4000,바삭한 야채튀김,false,https://ldb-phinf.pstatic.net/20260301_160/1772366674343kqvtA_JPEG/%BE%DF%BB%E7%C0%CC_1%B0%B3.jpg
 2083011880,0,탄단지 샐러드,8600,8600,8600,"부드러운 닭가슴살, 고구마 무스, 견과류, 크렌베리가 들어간 탄.단.지가 골고루 들어있습니",true,https://ldb-phinf.pstatic.net/20251022_248/1761113033516fHHa5_PNG/%C5%B0%BF%C0%BD%BA%C5%A9%2C%B9%E8%B9%CE_%B4%A9%B3%A2_250430-%BA%B9%BB%E7_0002s_0022_%C5%BA%B4%DC%C1%F6%BB%F8%B7%AF%B5%F0.png
-2088388211,0,장어덮밥 단체도시락,,,,기업행사 및 회식 맞춤 구성으로 장어덮밥 단체도시락 가능합니다.,false,https://ldb-phinf.pstatic.net/20260127_166/1769492775037uGcUx_PNG/KakaoTalk_Photo_2026-01-27-14-45-22.png
 2088388211,1,장어구이-소금구이,35000,35000,35000,,false,
 2088388211,2,장어요리-양념구이,38000,38000,38000,,false,
 2088388211,3,장어요리-장어정식(장어탕),19000,19000,19000,,false,https://ldb-phinf.pstatic.net/20251028_295/1761641648534nucGT_JPEG/KakaoTalk_Image_2025-10-28-17-47-28_001.jpeg
@@ -3870,80 +3815,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 32791279,6,봉골레,18000,18000,18000,,false,
 32791279,7,먹물 빠네 파스타,19000,19000,19000,,false,
 32791279,8,아메리카노,3000,3000,3000,,false,
-33124222,0,그린김밥,,,,신선한 채소를 듬뿍 담고 밥을 가볍게 더해 산뜻하게 즐길 수 있는 그린라인 기본 김밥,true,https://ldb-phinf.pstatic.net/20260529_155/1780042130868Dcsem_JPEG/%B1%D7%B8%B0%B1%E8%B9%E4.jpg
-33124222,1,그린에그김밥,,,,부드러운 계란과 신선한 채소에 밥을 재료처럼 더해 속이 편안한 그린김밥,true,https://ldb-phinf.pstatic.net/20260529_163/1780042100504CInxr_JPEG/%B1%D7%B8%B0%BF%A1%B1%D7%B1%E8%B9%E4.jpg
-33124222,2,그린참치김밥,,,,고소한 참치와 풍성한 채소로 탄수화물 부담은 덜고 만족감은 채운 그린김밥,true,https://ldb-phinf.pstatic.net/20260529_257/17800420616082r1K6_JPEG/%B1%D7%B8%B0%C2%FC%C4%A1%B1%E8%B9%E4.jpg
-33124222,3,진미채김밥,,,,쫄깃한 진미채볶음에 매콤달콤한 맛이 어우러져 풍미가 살아있는 김밥,false,https://ldb-phinf.pstatic.net/20260223_54/1771805509996opuHt_PNG/%C1%F8%B9%CC%C3%A4%B1%E8%B9%E4.png
-33124222,4,멸치새우김밥,,,,"감칠맛 나는 멸치볶음에 밥새우와 아몬드를 더한, 고소하고 누구나 즐기기 좋은 김밥",false,https://ldb-phinf.pstatic.net/20260223_183/1771805501640yw5le_PNG/%B8%EA%C4%A1%BB%F5%BF%EC%B1%E8%B9%E4.png
-33124222,5,맵엉와사크래미통,,,,바삭하게 튀겨낸 통크래미에 생와사비와 매콤한 우엉조림을 곁들인 매운 통김밥,false,https://ldb-phinf.pstatic.net/20250304_280/1741048067783DBpY9_PNG/%B8%CA%BE%FB%BF%CD%BB%E7%C5%A9%B7%A1%B9%CC%C5%EB.png
-33124222,6,맵엉소시지통,,,,국내산 돈육 96% 소시지에 매콤 쫀득한 우엉조림이 조화로운 매운 통김밥,false,https://ldb-phinf.pstatic.net/20250304_232/1741048107837NS3NP_PNG/%B8%CA%BE%FB%BC%D2%BD%C3%C1%F6%C5%EB.png
-33124222,7,맵엉청양모짜통,,,,튀긴 모짜렐라 치즈스틱과 청양고추에 매콤한 우엉조림이 어우러진 매운 통김밥,false,https://ldb-phinf.pstatic.net/20250304_224/1741048137017FT6oP_PNG/%B8%CA%BE%FB%C3%BB%BE%E7%B8%F0%C2%A5%C5%EB.png
-33124222,8,맵엉마라통,,,,얼얼한 마라소스와 푸주튀김에 매콤한 우엉조림을 곁들여 중독적인 매운 통김밥,false,https://ldb-phinf.pstatic.net/20250304_207/1741048163409AaS90_PNG/%B8%CA%BE%FB%B8%B6%B6%F3%C5%EB.png
-33124222,9,국물떡볶이(2인),,,,수제 육수로 우려낸 매콤달콤 진한 소스의 국물떡볶이,false,https://ldb-phinf.pstatic.net/20240520_91/1716163287718yh09R_PNG/%B1%B9%B9%B0%B6%B1%BA%BA%C0%CC%282%C0%CE%29.png
-33124222,10,국물떡볶이(1인),,,,수제 육수로 우려낸 매콤달콤 진한 소스의 국물떡볶이 (1인용),false,https://ldb-phinf.pstatic.net/20240520_292/17161633160596uP24_PNG/%B1%B9%B9%B0%B6%B1%BA%BA%C0%CC%281%C0%CE%29.png
-33124222,11,깻잎국물떡볶이,,,,향긋한 깻잎을 통째로 얹은 추억의 국물떡볶이,false,https://ldb-phinf.pstatic.net/20240520_247/1716163334340DL706_PNG/%B2%A2%C0%D9%B1%B9%B9%B0%B6%B1%BA%BA%C0%CC.png
-33124222,12,짜장국물떡볶이,,,,달콤한 짜장 소스의 이색 국물떡볶이,false,https://ldb-phinf.pstatic.net/20240520_277/171616336168954U5e_PNG/%C2%A5%C0%E5%B1%B9%B9%B0%B6%B1%BA%BA%C0%CC.png
-33124222,13,마라국물떡볶이,,,,매콤 얼얼한 마라 소스의 중독성 있는 국물떡볶이,false,https://ldb-phinf.pstatic.net/20241111_131/1731283477998yNhCo_PNG/%B8%B6%B6%F3%B1%B9%B9%B0%B6%B1%BA%BA%C0%CC-1080X10801.png
-33124222,14,마라로제떡볶이,,,,매콤 얼얼한 마라 소스에 크림의 부드러움을 더한 국물떡볶이,false,https://ldb-phinf.pstatic.net/20241111_167/1731283591881mz22W_PNG/%B8%B6%B6%F3%B7%CE%C1%A6%B6%B1%BA%BA%C0%CC-1080X10801.png
-33124222,15,스페샬떡볶이,,,,특제 어묵 튀김을 곁들인 시그니처 떡볶이,false,https://ldb-phinf.pstatic.net/20240520_283/17161634655701rHCc_PNG/%BD%BA%C6%E4%BC%A3%B6%B1%BA%BA%C0%CC.png
-33124222,16,스페샬마라떡볶이,,,,특제 어묵 튀김을 곁들인 시그니처 마라떡볶이,false,https://ldb-phinf.pstatic.net/20241111_28/1731283630861LhodH_PNG/%BD%BA%C6%E4%BC%A3%B8%B6%B6%F3%B6%B1%BA%BA%C0%CC-1080X10801.png
-33124222,17,스페샬부대떡볶이,,,,부대찌개 토핑으로 푸짐하게 맛보는 밥도둑 떡볶이,false,https://ldb-phinf.pstatic.net/20240520_222/1716163428515VhUU1_PNG/%BD%BA%C6%E4%BC%A3%BA%CE%B4%EB%B6%B1%BA%BA%C0%CC.png
-33124222,18,스페샬불고기떡볶이,,,,향긋한 깻잎과 달달한 소불고기를 곁들인 프리미엄 떡볶이,false,https://ldb-phinf.pstatic.net/20240520_214/1716163450254DpTmd_PNG/%BD%BA%C6%E4%BC%A3%BA%D2%B0%ED%B1%E2%B6%B1%BA%BA%C0%CC.png
-33124222,19,스페샬마라기름떡볶이,,,,"아삭한 야채와 쫄깃한 푸주, 두유피를 마라 소스에 볶아 감칠맛이 일품인 매콤달콤 마라떡볶이",false,https://ldb-phinf.pstatic.net/20241111_261/1731283531353RtpU7_PNG/%BD%BA%C6%E4%BC%A3%B8%B6%B6%F3%B1%E2%B8%A7%B6%B1%BA%BA%C0%CC-1080X108101.png
-33124222,20,가래떡떡볶이,,,,말랑 쫄깃한 식감이 일품인 매콤한 쌀떡볶이,false,https://ldb-phinf.pstatic.net/20240520_40/1716163512774FCgIb_PNG/%B0%A1%B7%A1%B6%B1%B6%B1%BA%BA%C0%CC.png
-33124222,21,강정떡볶이,,,,쌀떡을 튀겨 양념에 버무린 바삭 쫄깃 떡 강정,false,https://ldb-phinf.pstatic.net/20240520_289/1716163490361spkyH_PNG/%B0%AD%C1%A4%B6%B1%BA%BA%C0%CC.png
-33124222,22,고봉민김밥,,,,특제소스에 졸인 우엉의 풍미가 일품인 속은 알차고 맛은 담백한 기본김밥,false,https://ldb-phinf.pstatic.net/20220228_195/1646004975331khksR_PNG/1_%B0%ED%BA%C0%B9%CE%B1%E8%B9%E4.png
-33124222,23,여수갓참치김밥,,,,알싸하게 톡 쏘는 돌산갓김치와 고소한 참치마요가 만난 여수의 맛,false,https://ldb-phinf.pstatic.net/20230306_76/1678063751997pWUnm_PNG/%C0%CC%B0%C9%B7%CE_%BB%E7%BF%EB%C7%D2_%B0%CD_%BF%A9%BC%F6%B0%AB%C2%FC%C4%A1%B1%E8%B9%E4%28%BA%B8%C1%A42%29.png
-33124222,24,돈까스김밥,,,,바삭하게 튀겨진 돈까스가 일품인 고봉민김밥인 대표 프리미엄 김밥,true,https://ldb-phinf.pstatic.net/20220228_200/1646004984476vDaEt_PNG/2_%B5%B7%B1%EE%BD%BA%B1%E8%B9%E4.png
-33124222,25,맵돈김밥,,,,화끈한 맵돈소스로 중독적인 매운맛을 더한 바삭매콤 돈까스김밥,false,https://ldb-phinf.pstatic.net/20220328_256/1648423466883h9SC2_PNG/%B8%CA%B5%B7%B1%E8%B9%E4.png
-33124222,26,매운김밥,,,,고추장 볶음 소고기와 아삭한 식감의 청량고추로 중독성 있는 매운맛,false,https://ldb-phinf.pstatic.net/20220228_213/1646004996600X1exN_PNG/3_%B8%C5%BF%EE%B1%E8%B9%E4.png
-33124222,27,참치김밥,,,,참치와 향긋한 깻잎을 넣어 풍미를 더한 스테디셀러,false,https://ldb-phinf.pstatic.net/20220228_293/1646005006567KWgDn_PNG/4_%C2%FC%C4%A1%B1%E8%B9%E4.png
-33124222,28,치즈김밥,,,,체다 슬라이스 치즈를 더해 부드럽고 고소함이 일품인 김밥,false,https://ldb-phinf.pstatic.net/20220228_186/1646005015283eCauF_PNG/5_%C4%A1%C1%EE%B1%E8%B9%E4.png
-33124222,29,떡갈비김밥,,,,맛있는 육즙의 떡갈비와 짭쪼름한 양념이 어우러져 풍부한 맛의 김밥,false,https://ldb-phinf.pstatic.net/20220228_277/1646005023794E5KRm_PNG/6_%B6%B1%B0%A5%BA%F1%B1%E8%B9%E4.png
-33124222,30,새우김밥,,,,고소한 새우튀김과 특제소스가 어우러진 새로운 맛의 고급 김밥,false,https://ldb-phinf.pstatic.net/20220228_75/1646005032624yDsEs_PNG/7_%BB%F5%BF%EC%B1%E8%B9%E4.png
-33124222,31,소불고기김밥,,,,육즙이 풍부한 소앞다리살에 특제소스로 맛을 낸 프리미엄 일품김밥,false,https://ldb-phinf.pstatic.net/20220228_155/1646005056006nN923_PNG/9_%BC%D2%BA%D2%B0%ED%B1%E2%B1%E8%B9%E4.png
-33124222,32,매콤어묵김밥,,,,쫄깃하게 튀긴 어묵채와 고추장 마요 소스로 매콤 담백한 이색김밥,false,https://ldb-phinf.pstatic.net/20220228_176/1646005065046MwMjn_PNG/10_%B8%C5%C4%DE%BE%EE%B9%AC%B1%E8%B9%E4.png
-33124222,33,대전얼큰이칼국수,,,,얼큰 칼칼 멸치육수에 쫄깃한 생면과 쑥갓을 푸짐하게 담은 대전의 맛,false,https://ldb-phinf.pstatic.net/20230605_189/168592517521598krp_PNG/%B4%EB%C0%FC%BE%F3%C5%AB%C0%CC%C4%AE%B1%B9%BC%F6%28%B4%A9%B3%A2%29-1000x773.png
-33124222,34,우동,,,,깊은 맛의 가쓰오부시 육수에 탱글한 면발과 별미 유부주머니 토핑,false,https://ldb-phinf.pstatic.net/20230522_269/1684739414258aELUL_PNG/%BF%EC%B5%BF.png
-33124222,35,잔치국수,,,,시원한 디포리 육수가 정겨운 촌국수,false,https://ldb-phinf.pstatic.net/20230522_53/1684739845923UpBqK_PNG/%C0%DC%C4%A1%B1%B9%BC%F6.png
-33124222,36,쫄면,,,,매콤한 소스에 쫄깃한 면발과 아삭한 야채가 어우러진 쫄면,false,https://ldb-phinf.pstatic.net/20200908_88/1599552613144zbEoa_PNG/f3PNw1zlHjz0rpRwMClm6xZN.png
-33124222,37,비빔국수,,,,매콤한 소스에 탱탱한 국수면과 아삭한 야채가 어우러진 비빔국수,false,https://ldb-phinf.pstatic.net/20200908_80/1599552689494KPBFz_PNG/GXrv5l8grUnc78fyd_a2edy1.png
-33124222,38,손수제비,,,,시원한 해물 국물에 매장에서 손수 반죽한 쫀득한 손수제비,false,https://ldb-phinf.pstatic.net/20230522_284/1684739863045ef7Ov_PNG/%BC%D5%BC%F6%C1%A6%BA%F1.png
-33124222,39,만둣국,,,,맛도 속도 꽉찬 든든한 만둣국,false,https://ldb-phinf.pstatic.net/20230522_51/1684739879516EAUuq_PNG/%B8%B8%B5%D4%B1%B9.png
-33124222,40,신라면,,,,"만두와 어묵을 넣어 푸짐하고 얼큰한 라면(치즈, 만두, 떡 추가가능)",false,https://ldb-phinf.pstatic.net/20230522_217/1684739910901SUdM7_PNG/%B6%F3%B8%E9.png
-33124222,41,돈까스세트,,,,등심돈까스와 롤치즈까스를 한번에 맛보는 모듬 돈까스,false,https://ldb-phinf.pstatic.net/20240318_74/1710723745547rKOF6_PNG/%B5%B7%B1%EE%BD%BA%BC%BC%C6%AE1080x1080.png
-33124222,42,고봉민돈까스,,,,신선한 돼지고기를 바삭하게 튀겨낸 등심 돈까스,false,https://ldb-phinf.pstatic.net/20240318_264/17107246480638NS91_PNG/%B0%ED%BA%C0%B9%CE%B5%B7%B1%EE%BD%BA-1080x1080.png
-33124222,43,롤치즈까스,,,,통 모짜렐라 치즈로 더 고소한 수제 돈까스,false,https://ldb-phinf.pstatic.net/20240318_82/17107237820504DlV3_PNG/%B7%D1%C4%A1%C1%EE%B1%EE%BD%BA1080x1080.png
-33124222,44,치즈돈까스,,,,모짜렐라 치즈의 고소함이 가득한 돈까스,false,https://ldb-phinf.pstatic.net/20240318_144/1710723800874AOmNW_PNG/%C4%A1%C1%EE%B5%B7%B1%EE%BD%BA1080x1080.png
-33124222,45,고구마치즈돈까스,,,,모짜렐라 치즈와 으깬 고구마를 더해 달콤 고소함이 일품인 돈까스,false,https://ldb-phinf.pstatic.net/20240426_194/17141159628620VKc0_PNG/%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA-%BD%C5%B8%DE%B4%BA-%C3%DF%B0%A1-%281080x1080.png
-33124222,46,오므라이스,,,,야채가 듬뿍 들어간 건강 만점 오므라이스,false,https://ldb-phinf.pstatic.net/20230522_180/1684740626441BwzVi_PNG/%BF%C0%B9%C7%B6%F3%C0%CC%BD%BA.png
-33124222,47,순두부찌개,,,,소고기와 해물이 들어가 시원하고 칼칼한 국물이 일품인 순두부찌개,false,https://ldb-phinf.pstatic.net/20201207_38/1607308875553gVyWO_JPEG/23jVNJlmw_T3n1isByT6nTm6.jpg
-33124222,48,강릉짬뽕순두부,,,,얼큰 칼칼한 짬뽕국물에 고소한 초당식 순두부를 푸짐하게 끓여낸 강릉의 맛,false,https://ldb-phinf.pstatic.net/20230102_242/1672636741622TKeWH_PNG/%B0%AD%B8%AA%C2%AB%BB%CD%BC%F8%B5%CE%BA%CE%28%B4%A9%B3%A2%29_1000X827.png
-33124222,49,고봉민돼지국밥,,,,부드럽고 쫄깃한 돼지고기와 진한 사골육수로 뽀얗게 우려낸 부산의 맛,false,https://ldb-phinf.pstatic.net/20221118_293/1668732308412ORCj7_PNG/%B0%ED%BA%C0%B9%CE%B5%C5%C1%F6%B1%B9%B9%E4.png
-33124222,50,대구중화비빔밥,,,,불향 입은 돼지고기와 아삭한 야채를 비벼 먹는 매콤 달콤 대구의 맛,false,https://ldb-phinf.pstatic.net/20230605_212/1685925073235yiWO9_PNG/%B4%EB%B1%B8%C1%DF%C8%AD%BA%F1%BA%F6%B9%E4%28%B4%A9%B3%A2%29-1000x775.png
-33124222,51,돌판비빔밥,,,,"뜨거운 돌판 위 일곱가지 신선한 나물, 계란, 소고기 고명의 비빔밥",false,https://ldb-phinf.pstatic.net/20201207_235/1607308897544Em2sq_JPEG/kumli9eC9dbFyGLFJsmSkYxe.jpg
-33124222,52,육개장한상,,,,사태살과 양지살이 가득한 육개장과 반찬 3종,false,https://ldb-phinf.pstatic.net/20201207_249/1607308912921Rmd7M_PNG/R1xIfreVbR5AnktYRvmxbIan.png
-33124222,53,소불고기덮밥,,,,달달한 간장소스에 소불고기와 아삭한 야채가 더해져 푸짐한 덮밥,false,https://ldb-phinf.pstatic.net/20230630_72/1688111194344xYLVA_JPEG/%BC%D2%BA%D2%B0%ED%B1%E2%B5%A4%B9%E4.jpg
-33124222,54,물냉면(하절기),,,,"매콤한 양념장과 담백한 수육, 진한 동치미 육수로 시원한 맛의 물냉면",false,https://ldb-phinf.pstatic.net/20201207_266/1607308951423bhMzN_JPEG/-TK_PalDiAryIiPY7WYvW8he.jpg
-33124222,55,비빔냉면(하절기),,,,쫄깃한 메밀 면발에 매콤 칼칼 양념소스로 감칠맛을 더한 비빔냉면,false,https://ldb-phinf.pstatic.net/20201207_140/1607308963421vM4Xn_JPEG/qn1pIhWFuUgPPAzXAzjgq0uj.jpg
-33124222,56,냉모밀(하절기),,,,가쓰오 육수의 은은한 풍미와 우엉튀김의 바삭한 식감을 느낄 수 있는 냉모밀,false,https://ldb-phinf.pstatic.net/20230522_15/1684740657030kQV7b_PNG/%B3%C3%B8%F0%B9%D0.png
-33124222,57,떡국(동절기),,,,떡의 쫀득한 식감이 일품인 든든한 떡국,false,https://ldb-phinf.pstatic.net/20230522_176/16847406710259s1OK_PNG/%B6%B1%B1%B9.png
-33124222,58,납작탕수육,,,,국내산 돼지고기 통등심에 새콤달콤 소스를 곁들인 바삭 쫀득 꿔바로우,false,https://ldb-phinf.pstatic.net/20230522_183/1684740691649JmHdl_PNG/%B3%B3%C0%DB%C5%C1%BC%F6%C0%B0.png
-33451326,0,빅맥® 세트,,,,"100% 순 쇠고기 패티 두 장에 빅맥®만의 특별한 소스
-입안에서 살살 녹는 치즈와 신선한 양상추, 양파, 그리고 피클까지
-50년 넘게 전 세계인의 입맛을 사로 잡은 버거의 대명사",false,https://ldb-phinf.pstatic.net/20220708_127/1657245800032ACyys_PNG/1.png
-33451326,1,맥스파이시® 상하이 버거 세트,,,,"매콤한 시즈닝을 입힌 100% 닭가슴 통살 위에
-아삭아삭한 양상추와 신선한 토마토~
-겉은 바삭, 속은 부드러운 치킨 패티의 매콤함으로 입맛도 기분도 화끈하게!",false,https://ldb-phinf.pstatic.net/20220708_255/16572459143724zjSF_PNG/2.png
-33451326,2,1955 버거™ 세트,,,,"113g 두툼한 순 쇠고기 패티,
-더 풍성해진 신선한 양상추,
-깊은 풍미의 그릴드 어니언까지!
-맥도날드가 처음 생긴 1955년의 맛을 담은
-영원한 오리지널 1955 버거",false,https://ldb-phinf.pstatic.net/20220708_9/1657245935870DrAiH_PNG/3.png
-33451326,3,불고기 버거 세트,,,,"한국인의 입맛에 딱 맞는 불고기 소스에 잘 재운 패티와
-고소한 마요네즈, 신선한 양상추의 맛있는 조합.",false,https://ldb-phinf.pstatic.net/20200402_172/1585799362554N1dIv_PNG/sMVv9eKeoqUbkcDCXZCpABKk.png
-33451326,4,슈슈 버거 세트,,,,탱~글한 통새우살 가득~ 슈슈 버거,false,https://ldb-phinf.pstatic.net/20200402_177/15857993764060mWux_PNG/DH8RZL9FnxTOgb3OMoOf6tBx.png
-33451326,5,베이컨 토마토 디럭스 세트,,,,더욱 풍부하고 신선한 맛의 프리미엄 버거,false,https://ldb-phinf.pstatic.net/20200402_43/1585799390626dW1Xz_PNG/vjxntRY-WVCtrQJvmaheg4tw.png
 33510731,0,상황삼계탕,16000,16000,16000,기본삼계탕,false,https://ldb-phinf.pstatic.net/20230622_249/1687419836359hbMVK_JPEG/20230607_182042.jpg
 33510731,1,한방삼계탕,18000,18000,18000,기본삼계탕에 한방추가,false,https://ldb-phinf.pstatic.net/20230622_263/16874198852003RCm5_JPEG/20230615_183909.jpg
 33510731,2,들깨삼계탕,18000,18000,18000,기본삼계탕에 들깨추가,false,https://ldb-phinf.pstatic.net/20230622_105/1687419863439cMnFf_JPEG/20230614_184403.jpg
@@ -4260,21 +4131,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 36977975,7,반반김밥,6000,6000,6000,,false,
 36977975,8,떡볶이,5000,5000,5000,,false,
 36977975,9,냄비오뎅,3000,3000,3000,,false,
-37576885,0,빅맥® 세트,,,,"100% 순 쇠고기 패티 두 장에 빅맥®만의 특별한 소스
-입안에서 살살 녹는 치즈와 신선한 양상추, 양파, 그리고 피클까지
-50년 넘게 전 세계인의 입맛을 사로 잡은 버거의 대명사",false,https://ldb-phinf.pstatic.net/20220708_127/1657245800032ACyys_PNG/1.png
-37576885,1,맥스파이시® 상하이 버거 세트,,,,"매콤한 시즈닝을 입힌 100% 닭가슴 통살 위에
-아삭아삭한 양상추와 신선한 토마토~
-겉은 바삭, 속은 부드러운 치킨 패티의 매콤함으로 입맛도 기분도 화끈하게!",false,https://ldb-phinf.pstatic.net/20220708_255/16572459143724zjSF_PNG/2.png
-37576885,2,1955 버거™ 세트,,,,"113g 두툼한 순 쇠고기 패티,
-더 풍성해진 신선한 양상추,
-깊은 풍미의 그릴드 어니언까지!
-맥도날드가 처음 생긴 1955년의 맛을 담은
-영원한 오리지널 1955 버거",false,https://ldb-phinf.pstatic.net/20220708_9/1657245935870DrAiH_PNG/3.png
-37576885,3,불고기 버거 세트,,,,"한국인의 입맛에 딱 맞는 불고기 소스에 잘 재운 패티와
-고소한 마요네즈, 신선한 양상추의 맛있는 조합.",false,https://ldb-phinf.pstatic.net/20200402_172/1585799362554N1dIv_PNG/sMVv9eKeoqUbkcDCXZCpABKk.png
-37576885,4,슈슈 버거 세트,,,,탱~글한 통새우살 가득~ 슈슈 버거,false,https://ldb-phinf.pstatic.net/20200402_177/15857993764060mWux_PNG/DH8RZL9FnxTOgb3OMoOf6tBx.png
-37576885,5,베이컨 토마토 디럭스 세트,,,,더욱 풍부하고 신선한 맛의 프리미엄 버거,false,https://ldb-phinf.pstatic.net/20200402_43/1585799390626dW1Xz_PNG/vjxntRY-WVCtrQJvmaheg4tw.png
 37797830,0,송추갈비정식(평일 런치),36000,36000,36000,"소양념갈비와 된장찌개, 솥밥 또는 냉면을 함께 즐길 수 있는 가성비 정식 (2인이상)",true,https://ldb-phinf.pstatic.net/20240322_12/1711074194835PyA31_JPEG/%C1%A4%BD%C4_%B3%D7%C0%CC%B9%F6.jpg
 37797830,1,한돈명품구이 정식(평일 런치),31000,31000,31000,"도톰한 돼지구이와 된장찌개, 솥밥 또는 냉면을 함께 즐길 수 있는 가성비 정식 (2인이상)",false,https://ldb-phinf.pstatic.net/20250424_37/1745469859031BfRTF_JPEG/%C7%D1%B5%B7%B8%ED%C7%B0%B1%B8%C0%CC_%C0%A5%BF%EB.jpg
 37797830,2,송추갈비,41000,41000,41000,"갈비의 결을 살린 수제칼집과 45년 전통 양념으로, 부드럽고 달콤한 시그니처 메뉴",false,https://ldb-phinf.pstatic.net/20260416_195/1776303017147bSpIK_PNG/%BC%DB%C3%DF.png
@@ -4391,7 +4247,6 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 38668100,5,초등 / 주말&공휴일,40000,40000,40000,취학 아동,false,https://ldb-phinf.pstatic.net/20260419_204/1776591717933nHzdu_PNG/%B8%DE%B4%BA.png
 38668100,6,미취학 / 주중런치,18000,18000,18000,37개월~미취학 아동,false,https://ldb-phinf.pstatic.net/20260419_190/1776591733727Pc9y8_PNG/%B8%DE%B4%BA.png
 38668100,7,"미취학 / 주중 디너,주말&공휴일",20000,20000,20000,37개월~미취학 아동,false,https://ldb-phinf.pstatic.net/20260419_62/1776591742984EUk0G_PNG/%B8%DE%B4%BA.png
-38668100,8,유아,0,,,0~36개월,false,https://ldb-phinf.pstatic.net/20260419_117/1776591750756HkLyy_PNG/%B8%DE%B4%BA.png
 38781254,0,마왕통구이,35000~46000,35000,46000,누구나 빠져드는 시그니처 메뉴! 단짠단짠한 소스의 매력과 그윽한 바베큐향을 즐기세요!,true,https://ldb-phinf.pstatic.net/20220715_30/1657858313289A6cXW_JPEG/%B8%B6%BF%D5%C5%EB%B1%B8%C0%CC.jpg
 38781254,1,마왕세트,41000~52000,41000,52000,마왕통구이 / 마왕보쌈구이 (택1) + 사이드 메뉴 (택1),true,https://ldb-phinf.pstatic.net/20220715_269/1657858635620dDW1a_JPEG/%B8%B6%BF%D5%BC%BC%C6%AE_%281%29.jpg
 38781254,2,반반세트,49000~59000,49000,59000,시그니처 메뉴 마왕통구이와 보쌈구이를 함께 즐길 수 있는 세트,true,https://ldb-phinf.pstatic.net/20220715_149/1657858387917IGNe2_JPEG/%B9%DD%B9%DD%BC%BC%C6%AE.jpg
@@ -4505,17 +4360,11 @@ restaurant_id,menu_index,name,price_text,price_min,price_max,description,recomme
 843434158,17,[머쉬룸버거]표고버섯이 통으로 튀긴,11300,11300,11300,"소고기패티, 바스소스, 케찹, 체다치즈, 양상추, 토마토, 구운양파, 표고버섯 튀김",false,https://ldb-phinf.pstatic.net/20241206_126/1733474481794n4ytV_JPEG/7.%B8%D3%BD%AC%B7%EB%B9%F6%B0%C5.jpg
 843434158,18,[탐욕버거]두툼한 패티2장과 폭탄토핑,14000,14000,14000,"소고기패티x2, 소스, 치즈x2, 양상추, 양파, 토마토, 계란프라이, 피클렐리쉬, 베이컨",false,https://ldb-phinf.pstatic.net/20241206_77/1733474487956RLgWm_JPEG/9.%C5%BD%BF%E5%B9%F6%B0%C5.jpg
 843434158,19,[트리플 바스버거]고소한 패티가 3장,14800,14800,14800,"소고기패티x3, 바스소스, 체다치즈x3, 양상추, 양파, 토마토",false,https://ldb-phinf.pstatic.net/20241206_291/1733474494762vFLbA_JPEG/4.%C6%AE%B8%AE%C7%C3%B9%D9%BD%BA%B9%F6%B0%C5.jpg
-843434158,20,제임스 감,0,,,,false,https://ldb-phinf.pstatic.net/20241206_162/1733474376830BclRF_JPEG/1.%C1%A6%C0%D3%BD%BA%B0%A8.jpg
 843434158,21,[프렌치 프라이]촉촉함과 바삭함,2500,2500,2500,,false,https://ldb-phinf.pstatic.net/20241025_220/1729843166953J36j9_JPEG/2.%C7%C1%B7%BB%C4%A1%C7%C1%B6%F3%C0%CC.jpg
 843434158,22,[치즈 베이컨 프라이]찐한 치즈소스,3000,3000,3000,,false,https://ldb-phinf.pstatic.net/20241025_96/1729843132217FP9H0_JPEG/3.%C4%A1%C1%EE%BA%A3%C0%CC%C4%C1%C7%C1%B6%F3%C0%CC.jpg
 843434158,23,[어니언링]일본식 빵가루로 만든 특제,3500,3500,3500,,false,https://ldb-phinf.pstatic.net/20241025_57/1729843118771pbzAr_JPEG/4.%BE%EE%B4%CF%BE%F0%B8%B5.jpg
 843434158,24,[고구마 프라이]달달 바삭에 렌치소스,4000,4000,4000,,false,https://ldb-phinf.pstatic.net/20241025_209/1729843103087vg7Yo_JPEG/5.%B0%ED%B1%B8%B8%B6%C7%C1%B6%F3%C0%CCw%B7%BB%C4%A1.jpg
 843434158,25,[버팔로 치킨 윙]인기 사이드 메뉴,5000,5000,5000,,false,https://ldb-phinf.pstatic.net/20241025_39/1729843088990bcLO1_JPEG/7.%B9%F6%C6%C8%B7%CE%C4%A1%C5%B2%C0%AE.jpg
-843434158,26,바스 하우스 소스,0,,,,false,https://ldb-phinf.pstatic.net/20241206_212/1733474282680Mw4pR_JPEG/1._%C4%ED%C6%CE%C0%CC%C3%F7_%B9%D9%BD%BA%B9%F6%B0%C5_%C7%CF%BF%EC%BD%BA%BC%D2%BD%BA.jpg
-843434158,27,바베큐 소스,0,,,,false,https://ldb-phinf.pstatic.net/20241206_195/173347429233517K0K_JPEG/4._%C4%ED%C6%CE%C0%CC%C3%F7_%B9%D9%BA%A3%C5%A5.jpg
-843434158,28,허니 머스타드 소스,0,,,,false,https://ldb-phinf.pstatic.net/20241206_280/17334743298037SoEF_JPEG/5._%C4%ED%C6%CE%C0%CC%C3%F7_%C7%E3%B4%CF%B8%D3%BD%BA%C5%B8%B5%E5.jpg
-843434158,29,렌치소스,0,,,,false,https://ldb-phinf.pstatic.net/20241206_184/1733474348403UnTzj_JPEG/7._%C4%ED%C6%CE%C0%CC%C3%F7_%B7%BB%C4%A1.jpg
-843434158,30,명란 마요 소스,0,,,,false,https://ldb-phinf.pstatic.net/20241206_20/1733474339302LcNCt_JPEG/6._%C4%ED%C6%CE%C0%CC%C3%F7_%B8%ED%B6%F5%B8%B6%BF%E4.jpg
 843434158,31,펩시 콜라,2500,2500,2500,,false,https://ldb-phinf.pstatic.net/20241025_140/1729843074943xkWzQ_JPEG/1.%C6%E9%BD%C3%C4%DD%B6%F3_%28%BC%F6%C1%A4%BA%BB%29.jpg
 843434158,32,사이다,2500,2500,2500,,false,https://ldb-phinf.pstatic.net/20241025_169/1729843053565e5gRS_JPEG/2.%C4%A5%BC%BA%BB%E7%C0%CC%B4%D9_%28%BC%F6%C1%A4%BA%BB%29.jpg
 843434158,33,펩시 ZERO 콜라,2500,2500,2500,,false,https://ldb-phinf.pstatic.net/20241025_215/1729843038191y69wz_JPEG/3.%C6%E9%BD%C3ZERO_%28%BC%F6%C1%A4%BA%BB%29.jpg
