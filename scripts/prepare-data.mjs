@@ -10,6 +10,9 @@ const summaryOut = path.join(dataDir, "prepare_summary.json");
 const excludedCategoryKeywords = [
   "카페",
   "디저트",
+  "꽃집",
+  "꽃배달",
+  "플라워",
   "커피",
   "베이커리",
   "베이글",

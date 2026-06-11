@@ -1,12 +1,15 @@
 {
   "sourceMenuRows": 7427,
   "sourceStoreCount": 328,
-  "filteredMenuRows": 4405,
-  "filteredRestaurantCount": 249,
-  "excludedRestaurantCount": 79,
+  "filteredMenuRows": 4395,
+  "filteredRestaurantCount": 248,
+  "excludedRestaurantCount": 80,
   "excludedCategoryKeywords": [
     "카페",
     "디저트",
+    "꽃집",
+    "꽃배달",
+    "플라워",
     "커피",
     "베이커리",
     "베이글",

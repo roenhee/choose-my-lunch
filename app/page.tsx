@@ -3,6 +3,7 @@
 import {
   ChevronDown,
   ChevronUp,
+  ExternalLink,
   Heart,
   Loader2,
   MapPin,
@@ -25,10 +26,11 @@ type RandomPick = {
 
 const priceBands = [
   { label: "전체", min: 0, max: Number.MAX_SAFE_INTEGER },
-  { label: "1만원 이하", min: 0, max: 10000 },
-  { label: "1만원대", min: 10000, max: 19999 },
-  { label: "2만원대", min: 20000, max: 29999 },
-  { label: "3만원 이상", min: 30000, max: Number.MAX_SAFE_INTEGER }
+  { label: "8천원 이하", min: 0, max: 8000 },
+  { label: "만2천원 이하", min: 0, max: 12000 },
+  { label: "만오천원 이하", min: 0, max: 15000 },
+  { label: "만 팔천원 이하", min: 0, max: 18000 },
+  { label: "2만원 이상", min: 20000, max: Number.MAX_SAFE_INTEGER }
 ];
 
 function formatPrice(menu: Menu) {
@@ -75,6 +77,12 @@ function RestaurantCard({
             {" "}
             {restaurant.naver_road_address || restaurant.address || "주소 미기재"}
           </p>
+          {restaurant.naver_url ? (
+            <a className="map-link" href={restaurant.naver_url} target="_blank" rel="noreferrer">
+              <ExternalLink size={13} aria-hidden />
+              네이버 지도
+            </a>
+          ) : null}
         </div>
         <div className="actions">
           <button
@@ -229,6 +237,27 @@ export default function Home() {
       });
   }, [category, priceBand, query, restaurants]);
 
+  const orderedRestaurants = useMemo(() => {
+    if (!randomPick) return filteredRestaurants;
+
+    return [...filteredRestaurants].sort((left, right) => {
+      if (left.id === randomPick.restaurant.id) return -1;
+      if (right.id === randomPick.restaurant.id) return 1;
+      return 0;
+    }).map((restaurant) => {
+      if (restaurant.id !== randomPick.restaurant.id) return restaurant;
+      const menus = [...restaurant.menus].sort((left, right) => {
+        if (left.id === randomPick.menu.id) return -1;
+        if (right.id === randomPick.menu.id) return 1;
+        return Number(left.menu_index || 0) - Number(right.menu_index || 0);
+      });
+      return { ...restaurant, menus };
+    });
+  }, [filteredRestaurants, randomPick]);
+
+  const filteredMenuCount = orderedRestaurants.reduce((sum, item) => sum + item.menus.length, 0);
+  const filteredRestaurantCount = orderedRestaurants.length;
+
   async function handleLike(targetType: "restaurant" | "menu", targetId: string) {
     const visitorId = getVisitorId();
     const key = `${targetType}:${targetId}`;
@@ -276,6 +305,13 @@ export default function Home() {
     const pick = candidates[Math.floor(Math.random() * candidates.length)];
     setRandomPick(pick);
     setExpanded((prev) => new Set(prev).add(pick.restaurant.id));
+  }
+
+  function handleResetFilters() {
+    setCategory("전체");
+    setPriceBand("전체");
+    setQuery("");
+    setRandomPick(null);
   }
 
   return (
@@ -339,14 +375,14 @@ export default function Home() {
         {error ? <p className="error">{error}</p> : null}
 
         <div className="content">
-          <section className="list">
+          <section className="list content-list">
             {loading ? (
               <div className="empty">
                 <Loader2 size={24} aria-hidden />
                 데이터를 불러오는 중입니다.
               </div>
-            ) : filteredRestaurants.length ? (
-              filteredRestaurants.map((restaurant) => (
+            ) : orderedRestaurants.length ? (
+              orderedRestaurants.map((restaurant) => (
                 <RestaurantCard
                   expanded={expanded.has(restaurant.id)}
                   key={restaurant.id}
@@ -369,9 +405,23 @@ export default function Home() {
             )}
           </section>
 
-          <aside className="panel">
-            <div className="random-card">
-              <h2>오늘의 추천</h2>
+          <aside className="panel content-panel">
+            <div className="merged-card">
+              <div className="merged-head">
+                <div>
+                  <h2>오늘의 추천</h2>
+                  <p className="description">
+                    현재 조건 결과: {filteredRestaurantCount.toLocaleString("ko-KR")}곳의 식당,
+                    {" "}
+                    {filteredMenuCount.toLocaleString("ko-KR")}개 메뉴가 후보예요.
+                  </p>
+                </div>
+                <button className="button secondary" onClick={handleResetFilters} type="button">
+                  <Utensils size={16} aria-hidden />
+                  조건 초기화
+                </button>
+              </div>
+
               {randomPick ? (
                 <div className="pick">
                   <span className="badge">{randomPick.restaurant.category}</span>
@@ -383,25 +433,6 @@ export default function Home() {
               ) : (
                 <p className="description">조건을 고르고 랜덤 선택을 눌러보세요.</p>
               )}
-            </div>
-
-            <div className="summary-card">
-              <h2>현재 조건</h2>
-              <p className="description">
-                {filteredRestaurants.length.toLocaleString("ko-KR")}곳의 식당,
-                {" "}
-                {filteredRestaurants.reduce((sum, item) => sum + item.menus.length, 0).toLocaleString("ko-KR")}개 메뉴가
-                후보입니다.
-              </p>
-              <button className="button secondary" onClick={() => {
-                setCategory("전체");
-                setPriceBand("전체");
-                setQuery("");
-                setRandomPick(null);
-              }} type="button">
-                <Utensils size={16} aria-hidden />
-                조건 초기화
-              </button>
             </div>
           </aside>
         </div>

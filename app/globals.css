@@ -236,6 +236,21 @@ button {
   line-height: 1.4;
 }
 
+.map-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 6px;
+  color: var(--brand-strong);
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.map-link:hover {
+  text-decoration: underline;
+}
+
 .actions {
   display: flex;
   align-items: flex-start;
@@ -313,8 +328,19 @@ button {
   align-self: start;
 }
 
-.random-card,
-.summary-card {
+.content-list {
+  grid-area: list;
+}
+
+.content-panel {
+  grid-area: panel;
+}
+
+.content {
+  grid-template-areas: "list panel";
+}
+
+.merged-card {
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--panel);
@@ -322,9 +348,16 @@ button {
   box-shadow: var(--shadow);
 }
 
-.random-card h2,
-.summary-card h2 {
-  margin: 0 0 10px;
+.merged-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.merged-head h2 {
+  margin: 0;
   font-size: 16px;
 }
 
@@ -365,8 +398,18 @@ button {
     grid-template-columns: 1fr;
   }
 
+  .content {
+    grid-template-areas:
+      "panel"
+      "list";
+  }
+
   .panel {
     position: static;
+  }
+
+  .controls .button {
+    width: 100%;
   }
 }
 
@@ -389,7 +432,25 @@ button {
     justify-content: space-between;
   }
 
+  .restaurant-head {
+    padding: 14px;
+  }
+
   .menu-grid {
     grid-template-columns: 1fr;
+    padding-inline: 14px;
+    padding-bottom: 14px;
+  }
+
+  .merged-head {
+    flex-direction: column;
+  }
+
+  .merged-head .button {
+    width: 100%;
+  }
+
+  .menu-card {
+    min-height: 88px;
   }
 }
