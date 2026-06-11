@@ -1,0 +1,20 @@
+{
+  "sourceMenuRows": 7427,
+  "sourceStoreCount": 328,
+  "filteredMenuRows": 4405,
+  "filteredRestaurantCount": 249,
+  "excludedRestaurantCount": 79,
+  "excludedCategoryKeywords": [
+    "카페",
+    "디저트",
+    "커피",
+    "베이커리",
+    "베이글",
+    "아이스크림",
+    "도넛",
+    "케이크",
+    "차",
+    "음료",
+    "테이크아웃커피"
+  ]
+}
