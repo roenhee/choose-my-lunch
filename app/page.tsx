@@ -615,7 +615,6 @@ export default function Home() {
                   </p>
                 </div>
                 <button className="button secondary" onClick={handleResetFilters} type="button">
-                  <Utensils size={16} aria-hidden />
                   조건 초기화
                 </button>
               </div>

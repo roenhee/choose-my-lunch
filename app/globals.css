@@ -181,7 +181,8 @@ button {
 }
 
 .merged-head .button {
-  font-size: 14px;
+  font-size: 12px;
+  white-space: nowrap;
 }
 
 .button.secondary:hover {
@@ -551,7 +552,7 @@ button {
     flex-direction: column;
   }
 
-  .modal-actions .button {
+.modal-actions .button {
     width: 100%;
   }
 }
@@ -595,5 +596,224 @@ button {
 
   .menu-card {
     min-height: 88px;
+  }
+}
+
+.admin-shell {
+  min-height: 100vh;
+  padding: 24px;
+  background: var(--bg);
+}
+
+.admin-card {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: var(--shadow);
+}
+
+.admin-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  min-height: 240px;
+}
+
+.admin-login {
+  max-width: 520px;
+  margin-top: 80px;
+}
+
+.admin-title {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.admin-title h1 {
+  margin: 0;
+  font-size: 22px;
+}
+
+.admin-title p {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.admin-form {
+  display: grid;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.admin-label {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.admin-error {
+  margin: 14px 0 0;
+  color: #a63a1b;
+  font-size: 13px;
+}
+
+.admin-notice {
+  margin: 14px 0 0;
+  color: var(--brand-strong);
+  font-size: 13px;
+}
+
+.admin-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.admin-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.admin-count {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.admin-list {
+  display: grid;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.admin-request {
+  display: grid;
+  gap: 12px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fbfcfa;
+}
+
+.admin-request-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.admin-request-kicker {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 8px;
+}
+
+.admin-request h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.admin-request p {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.admin-request-date {
+  color: var(--muted);
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.admin-meta {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin: 0;
+}
+
+.admin-meta div {
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+}
+
+.admin-meta dt {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.admin-meta dd {
+  margin: 4px 0 0;
+  color: var(--text);
+  font-size: 13px;
+  word-break: break-all;
+}
+
+.admin-payload {
+  overflow: auto;
+  margin: 0;
+  padding: 12px;
+  border-radius: 8px;
+  background: #f4f7f4;
+  color: #1a241e;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.admin-request-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.admin-empty {
+  display: grid;
+  place-items: center;
+  gap: 8px;
+  min-height: 220px;
+  margin-top: 18px;
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+  color: var(--muted);
+  text-align: center;
+}
+
+@media (max-width: 860px) {
+  .admin-shell {
+    padding: 14px;
+  }
+
+  .admin-header,
+  .admin-request-head {
+    flex-direction: column;
+  }
+
+  .admin-actions,
+  .admin-request-actions {
+    width: 100%;
+  }
+
+  .admin-actions .button,
+  .admin-request-actions .button {
+    width: 100%;
+  }
+
+  .admin-meta {
+    grid-template-columns: 1fr;
   }
 }
